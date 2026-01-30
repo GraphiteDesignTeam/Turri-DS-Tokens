@@ -2911,7 +2911,8 @@
       "id": "whitelabel -light",
       "name": "Light",
       "selectedTokenSets": {
-        "Semantic - Colour/Light": "enabled"
+        "Semantic - Colour/Light": "enabled",
+        "Primitive/Primitive": "source"
       },
       "$figmaStyleReferences": {
         "color.bg.neutral.default": "S:54961f0a942306180904d002edeaa57a90049e1d,",
@@ -3303,7 +3304,8 @@
       "id": "whitelabel -dark",
       "name": "Dark",
       "selectedTokenSets": {
-        "Semantic - Colour/Dark": "enabled"
+        "Semantic - Colour/Dark": "enabled",
+        "Semantic - Colour/Light": "source"
       },
       "$figmaStyleReferences": {
         "color.bg.neutral.default": "S:54961f0a942306180904d002edeaa57a90049e1d,",
@@ -3769,7 +3771,16 @@
       },
       "selectedTokenSets": {
         "Primitive/Primitive": "source",
-        "Semantic - Type / Desktop": "enabled",
+        "Semantic - Type / Desktop": "enabled"
+      },
+      "group": "Semantic - Type"
+    },
+    {
+      "id": "3c7f08c3ed6c1a6e73aea3550f2b7e6a6bbd5429",
+      "name": "Mobile",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "Primitive/Primitive": "source",
         "Semantic - Type / Mobile": "enabled"
       },
       "group": "Semantic - Type"
