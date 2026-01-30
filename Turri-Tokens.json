@@ -1,0 +1,3788 @@
+{
+  "Primitive/Primitive": {
+    "color": {
+      "gray": {
+        "50": {
+          "value": "#FFFFFF",
+          "type": "color"
+        },
+        "100": {
+          "value": "#F5F5F5",
+          "type": "color"
+        },
+        "200": {
+          "value": "#E5E5E5",
+          "type": "color"
+        },
+        "300": {
+          "value": "#D4D4D4",
+          "type": "color"
+        },
+        "400": {
+          "value": "#A3A3A3",
+          "type": "color"
+        },
+        "500": {
+          "value": "#737373",
+          "type": "color"
+        },
+        "600": {
+          "value": "#525252",
+          "type": "color"
+        },
+        "700": {
+          "value": "#404040",
+          "type": "color"
+        },
+        "800": {
+          "value": "#262626",
+          "type": "color"
+        },
+        "900": {
+          "value": "#121212",
+          "type": "color"
+        }
+      },
+      "brand": {
+        "100": {
+          "value": "#E8DFF1",
+          "type": "color"
+        },
+        "300": {
+          "value": "#BFA7D9",
+          "type": "color"
+        },
+        "500": {
+          "value": "#673391",
+          "type": "color"
+        },
+        "700": {
+          "value": "#4E2670",
+          "type": "color"
+        },
+        "900": {
+          "value": "#34194D",
+          "type": "color"
+        }
+      },
+      "blue": {
+        "100": {
+          "value": "#E6F0FF",
+          "type": "color"
+        },
+        "300": {
+          "value": "#8AB4F8",
+          "type": "color"
+        },
+        "500": {
+          "value": "#1A73E8",
+          "type": "color"
+        },
+        "700": {
+          "value": "#1558B0",
+          "type": "color"
+        },
+        "900": {
+          "value": "#0D3C78",
+          "type": "color"
+        }
+      },
+      "green": {
+        "100": {
+          "value": "#E6F4EA",
+          "type": "color"
+        },
+        "300": {
+          "value": "#81C995",
+          "type": "color"
+        },
+        "500": {
+          "value": "#1E8E3E",
+          "type": "color"
+        },
+        "700": {
+          "value": "#166C2D",
+          "type": "color"
+        },
+        "900": {
+          "value": "#0F4A1F",
+          "type": "color"
+        }
+      },
+      "red": {
+        "100": {
+          "value": "#FCE8E6",
+          "type": "color"
+        },
+        "300": {
+          "value": "#F28B82",
+          "type": "color"
+        },
+        "500": {
+          "value": "#D93025",
+          "type": "color"
+        },
+        "700": {
+          "value": "#A52714",
+          "type": "color"
+        },
+        "900": {
+          "value": "#6E1B0F",
+          "type": "color"
+        }
+      },
+      "pink": {
+        "100": {
+          "value": "#FDE7F3",
+          "type": "color"
+        },
+        "300": {
+          "value": "#F062B0",
+          "type": "color"
+        },
+        "500": {
+          "value": "#D81B60",
+          "type": "color"
+        },
+        "700": {
+          "value": "#A31545",
+          "type": "color"
+        },
+        "900": {
+          "value": "#6D0F30",
+          "type": "color"
+        }
+      },
+      "orange": {
+        "100": {
+          "value": "#FEEFE3",
+          "type": "color"
+        },
+        "300": {
+          "value": "#F9AB6C",
+          "type": "color"
+        },
+        "500": {
+          "value": "#F57C00",
+          "type": "color"
+        },
+        "700": {
+          "value": "#C25E00",
+          "type": "color"
+        },
+        "900": {
+          "value": "#7A3A00",
+          "type": "color"
+        }
+      },
+      "yellow": {
+        "100": {
+          "value": "#FEF7E0",
+          "type": "color"
+        },
+        "300": {
+          "value": "#FDD663",
+          "type": "color"
+        },
+        "500": {
+          "value": "#F9AB00",
+          "type": "color"
+        },
+        "700": {
+          "value": "#C48800",
+          "type": "color"
+        },
+        "900": {
+          "value": "#7A5500",
+          "type": "color"
+        }
+      }
+    },
+    "dimension": {
+      "dimension-0": {
+        "value": "0",
+        "type": "dimension"
+      },
+      "dimension-0-5": {
+        "value": "2px",
+        "type": "dimension"
+      },
+      "dimension-1": {
+        "value": "4",
+        "type": "dimension"
+      },
+      "dimension-1-5": {
+        "value": "6",
+        "type": "dimension"
+      },
+      "dimension-2": {
+        "value": "8",
+        "type": "dimension"
+      },
+      "dimension-2-5": {
+        "value": "10",
+        "type": "dimension"
+      },
+      "dimension-3": {
+        "value": "12",
+        "type": "dimension"
+      },
+      "dimension-3-5": {
+        "value": "14",
+        "type": "dimension"
+      },
+      "dimension-4": {
+        "value": "16",
+        "type": "dimension"
+      },
+      "dimension-4-5": {
+        "value": "18",
+        "type": "dimension"
+      },
+      "dimension-5": {
+        "value": "20",
+        "type": "dimension"
+      },
+      "dimension-5-5": {
+        "value": "22",
+        "type": "dimension"
+      },
+      "dimension-6": {
+        "value": "24",
+        "type": "dimension"
+      },
+      "dimension-7": {
+        "value": "28",
+        "type": "dimension"
+      },
+      "dimension-8": {
+        "value": "32",
+        "type": "dimension"
+      },
+      "dimension-9": {
+        "value": "36",
+        "type": "dimension"
+      },
+      "dimension-10": {
+        "value": "40",
+        "type": "dimension"
+      },
+      "dimension-11": {
+        "value": "44",
+        "type": "dimension"
+      },
+      "dimension-12": {
+        "value": "48",
+        "type": "dimension"
+      },
+      "dimension-13": {
+        "value": "52",
+        "type": "dimension"
+      },
+      "dimension-14": {
+        "value": "56",
+        "type": "dimension"
+      },
+      "dimension-15": {
+        "value": "60",
+        "type": "dimension"
+      },
+      "dimension-16": {
+        "value": "64",
+        "type": "dimension"
+      },
+      "dimension-18": {
+        "value": "72",
+        "type": "dimension"
+      },
+      "dimension-20": {
+        "value": "80",
+        "type": "dimension"
+      },
+      "dimension-22": {
+        "value": "88",
+        "type": "dimension"
+      },
+      "dimension-24": {
+        "value": "96",
+        "type": "dimension"
+      },
+      "dimension-999": {
+        "value": "999",
+        "type": "dimension"
+      }
+    },
+    "font": {
+      "family": {
+        "title": {
+          "value": "Helvetica, Arial, sans-serif",
+          "type": "fontFamilies"
+        },
+        "body": {
+          "value": "Inter, system-ui, -apple-system, BlinkMacSystemFont, sans-serif",
+          "type": "fontFamilies"
+        }
+      },
+      "weight": {
+        "100": {
+          "value": 100,
+          "type": "fontWeights"
+        },
+        "200": {
+          "value": 200,
+          "type": "fontWeights"
+        },
+        "300": {
+          "value": 300,
+          "type": "fontWeights"
+        },
+        "400": {
+          "value": 400,
+          "type": "fontWeights"
+        },
+        "500": {
+          "value": 500,
+          "type": "fontWeights"
+        },
+        "600": {
+          "value": 600,
+          "type": "fontWeights"
+        },
+        "700": {
+          "value": 700,
+          "type": "fontWeights"
+        },
+        "800": {
+          "value": 800,
+          "type": "fontWeights"
+        },
+        "900": {
+          "value": 900,
+          "type": "fontWeights"
+        }
+      }
+    }
+  },
+  "Whitelabel /Light": {
+    "color": {
+      "bg": {
+        "neutral": {
+          "default": {
+            "value": "{color.gray.50}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.gray.100}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.gray.200}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.gray.100}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.100}",
+            "type": "color"
+          }
+        },
+        "brand": {
+          "default": {
+            "value": "{color.brand.100}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.brand.300}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.brand.500}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.brand.300}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.100}",
+            "type": "color"
+          }
+        },
+        "info": {
+          "default": {
+            "value": "{color.blue.100}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.blue.300}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.blue.500}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.blue.300}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.100}",
+            "type": "color"
+          }
+        },
+        "success": {
+          "default": {
+            "value": "{color.green.100}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.green.300}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.green.500}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.green.300}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.100}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "default": {
+            "value": "{color.orange.100}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.orange.300}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.orange.500}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.orange.300}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.100}",
+            "type": "color"
+          }
+        },
+        "danger": {
+          "default": {
+            "value": "{color.red.100}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.red.300}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.red.500}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.red.300}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.100}",
+            "type": "color"
+          }
+        },
+        "inverse": {
+          "default": {
+            "value": "{color.gray.900}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.gray.800}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.gray.700}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.gray.800}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.200}",
+            "type": "color"
+          }
+        }
+      },
+      "text": {
+        "neutral": {
+          "default": {
+            "value": "{color.gray.900}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.gray.700}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.gray.900}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.400}",
+            "type": "color"
+          }
+        },
+        "brand": {
+          "default": {
+            "value": "{color.brand.700}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.brand.900}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.brand.700}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.400}",
+            "type": "color"
+          }
+        },
+        "info": {
+          "default": {
+            "value": "{color.blue.700}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.blue.900}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.blue.700}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.400}",
+            "type": "color"
+          }
+        },
+        "success": {
+          "default": {
+            "value": "{color.green.700}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.green.900}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.green.700}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.400}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "default": {
+            "value": "{color.orange.700}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.orange.900}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.orange.700}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.400}",
+            "type": "color"
+          }
+        },
+        "danger": {
+          "default": {
+            "value": "{color.red.700}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.red.900}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.red.700}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.400}",
+            "type": "color"
+          }
+        },
+        "inverse": {
+          "default": {
+            "value": "{color.gray.50}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.gray.100}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.gray.50}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.200}",
+            "type": "color"
+          }
+        }
+      },
+      "icon": {
+        "neutral": {
+          "default": {
+            "value": "{color.gray.500}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.gray.700}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.gray.900}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.300}",
+            "type": "color"
+          }
+        },
+        "brand": {
+          "default": {
+            "value": "{color.brand.500}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.brand.700}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.brand.900}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.300}",
+            "type": "color"
+          }
+        },
+        "info": {
+          "default": {
+            "value": "{color.blue.500}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.blue.700}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.blue.900}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.300}",
+            "type": "color"
+          }
+        },
+        "success": {
+          "default": {
+            "value": "{color.green.500}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.green.700}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.green.900}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.300}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "default": {
+            "value": "{color.orange.500}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.orange.700}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.orange.900}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.300}",
+            "type": "color"
+          }
+        },
+        "danger": {
+          "default": {
+            "value": "{color.red.500}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.red.700}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.red.900}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.300}",
+            "type": "color"
+          }
+        },
+        "inverse": {
+          "default": {
+            "value": "{color.gray.50}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.gray.100}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.gray.200}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.300}",
+            "type": "color"
+          }
+        }
+      },
+      "border": {
+        "neutral": {
+          "default": {
+            "value": "{color.gray.200}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.gray.300}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.gray.400}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.gray.300}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.200}",
+            "type": "color"
+          }
+        },
+        "brand": {
+          "default": {
+            "value": "{color.brand.300}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.brand.500}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.brand.700}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.brand.500}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.200}",
+            "type": "color"
+          }
+        },
+        "info": {
+          "default": {
+            "value": "{color.blue.300}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.blue.500}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.blue.700}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.blue.500}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.200}",
+            "type": "color"
+          }
+        },
+        "success": {
+          "default": {
+            "value": "{color.green.300}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.green.500}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.green.700}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.green.500}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.200}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "default": {
+            "value": "{color.orange.300}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.orange.500}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.orange.700}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.orange.500}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.200}",
+            "type": "color"
+          }
+        },
+        "danger": {
+          "default": {
+            "value": "{color.red.300}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.red.500}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.red.700}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.red.500}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.200}",
+            "type": "color"
+          }
+        },
+        "inverse": {
+          "default": {
+            "value": "{color.gray.700}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.gray.800}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.gray.900}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.gray.800}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.300}",
+            "type": "color"
+          }
+        }
+      },
+      "link": {
+        "neutral": {
+          "default": {
+            "value": "{color.gray.700}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.gray.900}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.gray.500}",
+            "type": "color"
+          },
+          "visited": {
+            "value": "{color.gray.700}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.300}",
+            "type": "color"
+          }
+        },
+        "brand": {
+          "default": {
+            "value": "{color.brand.500}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.brand.700}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.brand.900}",
+            "type": "color"
+          },
+          "visited": {
+            "value": "{color.brand.500}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.300}",
+            "type": "color"
+          }
+        },
+        "info": {
+          "default": {
+            "value": "{color.blue.500}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.blue.700}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.blue.900}",
+            "type": "color"
+          },
+          "visited": {
+            "value": "{color.blue.500}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.300}",
+            "type": "color"
+          }
+        },
+        "success": {
+          "default": {
+            "value": "{color.green.500}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.green.700}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.green.900}",
+            "type": "color"
+          },
+          "visited": {
+            "value": "{color.green.500}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.300}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "default": {
+            "value": "{color.orange.500}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.orange.700}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.orange.900}",
+            "type": "color"
+          },
+          "visited": {
+            "value": "{color.orange.500}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.300}",
+            "type": "color"
+          }
+        },
+        "danger": {
+          "default": {
+            "value": "{color.red.500}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.red.700}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.red.900}",
+            "type": "color"
+          },
+          "visited": {
+            "value": "{color.red.500}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.300}",
+            "type": "color"
+          }
+        },
+        "inverse": {
+          "default": {
+            "value": "{color.gray.50}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.gray.100}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.gray.200}",
+            "type": "color"
+          },
+          "visited": {
+            "value": "{color.gray.50}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.300}",
+            "type": "color"
+          }
+        }
+      },
+      "focus": {
+        "neutral": {
+          "default": {
+            "value": "{color.gray.700}",
+            "type": "color"
+          }
+        },
+        "brand": {
+          "default": {
+            "value": "{color.brand.500}",
+            "type": "color"
+          }
+        },
+        "info": {
+          "default": {
+            "value": "{color.blue.500}",
+            "type": "color"
+          }
+        },
+        "success": {
+          "default": {
+            "value": "{color.green.500}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "default": {
+            "value": "{color.orange.500}",
+            "type": "color"
+          }
+        },
+        "danger": {
+          "default": {
+            "value": "{color.red.500}",
+            "type": "color"
+          }
+        },
+        "inverse": {
+          "default": {
+            "value": "{color.gray.50}",
+            "type": "color"
+          }
+        }
+      },
+      "overlay": {
+        "neutral": {
+          "default": {
+            "value": "#11182766",
+            "type": "color"
+          }
+        },
+        "brand": {
+          "default": {
+            "value": "#53286b4d",
+            "type": "color"
+          }
+        },
+        "info": {
+          "default": {
+            "value": "#3b82f64d",
+            "type": "color"
+          }
+        },
+        "success": {
+          "default": {
+            "value": "#22c55e4d",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "default": {
+            "value": "#f973164d",
+            "type": "color"
+          }
+        },
+        "danger": {
+          "default": {
+            "value": "#ef44444d",
+            "type": "color"
+          }
+        },
+        "inverse": {
+          "default": {
+            "value": "#ffffff66",
+            "type": "color"
+          }
+        }
+      },
+      "selection": {
+        "neutral": {
+          "default": {
+            "value": "#37415133",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "#3741514d",
+            "type": "color"
+          }
+        },
+        "brand": {
+          "default": {
+            "value": "#8d67ae40",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "#8d67ae59",
+            "type": "color"
+          }
+        },
+        "info": {
+          "default": {
+            "value": "#3b82f640",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "#3b82f659",
+            "type": "color"
+          }
+        },
+        "success": {
+          "default": {
+            "value": "#22c55e40",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "#22c55e59",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "default": {
+            "value": "#f9731640",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "#f9731659",
+            "type": "color"
+          }
+        },
+        "danger": {
+          "default": {
+            "value": "#ef444440",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "#ef444459",
+            "type": "color"
+          }
+        },
+        "inverse": {
+          "default": {
+            "value": "#ffffff40",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "#ffffff59",
+            "type": "color"
+          }
+        }
+      }
+    }
+  },
+  "Whitelabel /Dark": {
+    "color": {
+      "bg": {
+        "neutral": {
+          "default": {
+            "value": "{color.gray.900}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.gray.800}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.gray.700}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.gray.800}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.800}",
+            "type": "color"
+          }
+        },
+        "brand": {
+          "default": {
+            "value": "{color.brand.900}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.brand.700}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.brand.500}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.brand.700}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.800}",
+            "type": "color"
+          }
+        },
+        "info": {
+          "default": {
+            "value": "{color.blue.900}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.blue.700}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.blue.500}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.blue.700}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.800}",
+            "type": "color"
+          }
+        },
+        "success": {
+          "default": {
+            "value": "{color.green.900}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.green.700}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.green.500}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.green.700}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.800}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "default": {
+            "value": "{color.orange.900}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.orange.700}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.orange.500}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.orange.700}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.800}",
+            "type": "color"
+          }
+        },
+        "danger": {
+          "default": {
+            "value": "{color.red.900}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.red.700}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.red.500}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.red.700}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.800}",
+            "type": "color"
+          }
+        },
+        "inverse": {
+          "default": {
+            "value": "{color.gray.50}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.gray.100}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.gray.200}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.gray.100}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.200}",
+            "type": "color"
+          }
+        }
+      },
+      "text": {
+        "neutral": {
+          "default": {
+            "value": "{color.gray.50}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.gray.100}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.gray.50}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.500}",
+            "type": "color"
+          }
+        },
+        "brand": {
+          "default": {
+            "value": "{color.brand.300}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.brand.100}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.brand.300}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.500}",
+            "type": "color"
+          }
+        },
+        "info": {
+          "default": {
+            "value": "{color.blue.300}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.blue.100}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.blue.300}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.500}",
+            "type": "color"
+          }
+        },
+        "success": {
+          "default": {
+            "value": "{color.green.300}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.green.100}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.green.300}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.500}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "default": {
+            "value": "{color.orange.300}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.orange.100}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.orange.300}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.500}",
+            "type": "color"
+          }
+        },
+        "danger": {
+          "default": {
+            "value": "{color.red.300}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.red.100}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.red.300}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.500}",
+            "type": "color"
+          }
+        },
+        "inverse": {
+          "default": {
+            "value": "{color.gray.900}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.gray.800}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.gray.900}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.400}",
+            "type": "color"
+          }
+        }
+      },
+      "icon": {
+        "neutral": {
+          "default": {
+            "value": "{color.gray.300}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.gray.100}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.gray.50}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.600}",
+            "type": "color"
+          }
+        },
+        "brand": {
+          "default": {
+            "value": "{color.brand.300}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.brand.100}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.brand.100}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.600}",
+            "type": "color"
+          }
+        },
+        "info": {
+          "default": {
+            "value": "{color.blue.300}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.blue.100}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.blue.100}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.600}",
+            "type": "color"
+          }
+        },
+        "success": {
+          "default": {
+            "value": "{color.green.300}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.green.100}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.green.100}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.600}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "default": {
+            "value": "{color.orange.300}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.orange.100}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.orange.100}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.600}",
+            "type": "color"
+          }
+        },
+        "danger": {
+          "default": {
+            "value": "{color.red.300}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.red.100}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.red.100}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.600}",
+            "type": "color"
+          }
+        },
+        "inverse": {
+          "default": {
+            "value": "{color.gray.900}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.gray.800}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.gray.700}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.600}",
+            "type": "color"
+          }
+        }
+      },
+      "border": {
+        "neutral": {
+          "default": {
+            "value": "{color.gray.700}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.gray.600}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.gray.500}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.gray.600}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.800}",
+            "type": "color"
+          }
+        },
+        "brand": {
+          "default": {
+            "value": "{color.brand.500}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.brand.300}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.brand.100}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.brand.300}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.800}",
+            "type": "color"
+          }
+        },
+        "info": {
+          "default": {
+            "value": "{color.blue.500}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.blue.300}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.blue.100}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.blue.300}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.800}",
+            "type": "color"
+          }
+        },
+        "success": {
+          "default": {
+            "value": "{color.green.500}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.green.300}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.green.100}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.green.300}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.800}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "default": {
+            "value": "{color.orange.500}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.orange.300}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.orange.100}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.orange.300}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.800}",
+            "type": "color"
+          }
+        },
+        "danger": {
+          "default": {
+            "value": "{color.red.500}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.red.300}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.red.100}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.red.300}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.800}",
+            "type": "color"
+          }
+        },
+        "inverse": {
+          "default": {
+            "value": "{color.gray.200}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.gray.300}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.gray.400}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{color.gray.300}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.200}",
+            "type": "color"
+          }
+        }
+      },
+      "link": {
+        "neutral": {
+          "default": {
+            "value": "{color.gray.100}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.gray.50}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.gray.300}",
+            "type": "color"
+          },
+          "visited": {
+            "value": "{color.gray.100}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.600}",
+            "type": "color"
+          }
+        },
+        "brand": {
+          "default": {
+            "value": "{color.brand.300}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.brand.100}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.brand.500}",
+            "type": "color"
+          },
+          "visited": {
+            "value": "{color.brand.300}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.600}",
+            "type": "color"
+          }
+        },
+        "info": {
+          "default": {
+            "value": "{color.blue.300}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.blue.100}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.blue.500}",
+            "type": "color"
+          },
+          "visited": {
+            "value": "{color.blue.300}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.600}",
+            "type": "color"
+          }
+        },
+        "success": {
+          "default": {
+            "value": "{color.green.300}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.green.100}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.green.500}",
+            "type": "color"
+          },
+          "visited": {
+            "value": "{color.green.300}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.600}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "default": {
+            "value": "{color.orange.300}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.orange.100}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.orange.500}",
+            "type": "color"
+          },
+          "visited": {
+            "value": "{color.orange.300}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.600}",
+            "type": "color"
+          }
+        },
+        "danger": {
+          "default": {
+            "value": "{color.red.300}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.red.100}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.red.500}",
+            "type": "color"
+          },
+          "visited": {
+            "value": "{color.red.300}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.600}",
+            "type": "color"
+          }
+        },
+        "inverse": {
+          "default": {
+            "value": "{color.gray.900}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{color.gray.800}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.gray.700}",
+            "type": "color"
+          },
+          "visited": {
+            "value": "{color.gray.900}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.gray.400}",
+            "type": "color"
+          }
+        }
+      },
+      "focus": {
+        "neutral": {
+          "default": {
+            "value": "{color.gray.100}",
+            "type": "color"
+          }
+        },
+        "brand": {
+          "default": {
+            "value": "{color.brand.300}",
+            "type": "color"
+          }
+        },
+        "info": {
+          "default": {
+            "value": "{color.blue.300}",
+            "type": "color"
+          }
+        },
+        "success": {
+          "default": {
+            "value": "{color.green.300}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "default": {
+            "value": "{color.orange.300}",
+            "type": "color"
+          }
+        },
+        "danger": {
+          "default": {
+            "value": "{color.red.300}",
+            "type": "color"
+          }
+        },
+        "inverse": {
+          "default": {
+            "value": "{color.gray.900}",
+            "type": "color"
+          }
+        }
+      },
+      "overlay": {
+        "neutral": {
+          "default": {
+            "value": "#00000066",
+            "type": "color"
+          }
+        },
+        "brand": {
+          "default": {
+            "value": "#6733914D",
+            "type": "color"
+          }
+        },
+        "info": {
+          "default": {
+            "value": "#1A73E84D",
+            "type": "color"
+          }
+        },
+        "success": {
+          "default": {
+            "value": "#1E8E3E4D",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "default": {
+            "value": "#F57C004D",
+            "type": "color"
+          }
+        },
+        "danger": {
+          "default": {
+            "value": "#D930254D",
+            "type": "color"
+          }
+        },
+        "inverse": {
+          "default": {
+            "value": "#FFFFFF66",
+            "type": "color"
+          }
+        }
+      },
+      "selection": {
+        "neutral": {
+          "default": {
+            "value": "#FFFFFF1F",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "#FFFFFF33",
+            "type": "color"
+          }
+        },
+        "brand": {
+          "default": {
+            "value": "#67339133",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "#6733914D",
+            "type": "color"
+          }
+        },
+        "info": {
+          "default": {
+            "value": "#1A73E833",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "#1A73E84D",
+            "type": "color"
+          }
+        },
+        "success": {
+          "default": {
+            "value": "#1E8E3E33",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "#1E8E3E4D",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "default": {
+            "value": "#F57C0033",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "#F57C004D",
+            "type": "color"
+          }
+        },
+        "danger": {
+          "default": {
+            "value": "#D9302533",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "#D930254D",
+            "type": "color"
+          }
+        },
+        "inverse": {
+          "default": {
+            "value": "#0000001F",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "#00000033",
+            "type": "color"
+          }
+        }
+      }
+    }
+  },
+  "Dimensions": {
+    "border radius": {
+      "border-radius-none": {
+        "value": "{dimension.dimension-0}",
+        "type": "borderRadius"
+      },
+      "border-radius-sm": {
+        "value": "{dimension.dimension-1}",
+        "type": "borderRadius"
+      },
+      "border-radius-md": {
+        "value": "{dimension.dimension-2}",
+        "type": "borderRadius"
+      },
+      "border-radius-lg": {
+        "value": "{dimension.dimension-3}",
+        "type": "borderRadius"
+      },
+      "border-radius-xl": {
+        "value": "{dimension.dimension-4}",
+        "type": "borderRadius"
+      },
+      "border-radius-2xl": {
+        "value": "{dimension.dimension-6}",
+        "type": "borderRadius"
+      },
+      "border-radius-full": {
+        "value": "{dimension.dimension-999}",
+        "type": "borderRadius"
+      }
+    },
+    "spacing": {
+      "spacing-none": {
+        "value": "{dimension.dimension-0}",
+        "type": "spacing"
+      },
+      "spacing-xxs": {
+        "value": "{dimension.dimension-0-5}",
+        "type": "spacing"
+      },
+      "spacing-xs": {
+        "value": "{dimension.dimension-1}",
+        "type": "spacing"
+      },
+      "spacing-sm": {
+        "value": "{dimension.dimension-1-5}",
+        "type": "spacing"
+      },
+      "spacing-md": {
+        "value": "{dimension.dimension-2}",
+        "type": "spacing"
+      },
+      "spacing-lg": {
+        "value": "{dimension.dimension-3}",
+        "type": "spacing"
+      },
+      "spacing-xl": {
+        "value": "{dimension.dimension-4}",
+        "type": "spacing"
+      },
+      "spacing-2xl": {
+        "value": "{dimension.dimension-5}",
+        "type": "spacing"
+      },
+      "spacing-3xl": {
+        "value": "{dimension.dimension-6}",
+        "type": "spacing"
+      },
+      "spacing-4xl": {
+        "value": "{dimension.dimension-8}",
+        "type": "spacing"
+      },
+      "spacing-5xl": {
+        "value": "{dimension.dimension-10}",
+        "type": "spacing"
+      },
+      "spacing-6xl": {
+        "value": "{dimension.dimension-12}",
+        "type": "spacing"
+      },
+      "spacing-7xl": {
+        "value": "{dimension.dimension-14}",
+        "type": "spacing"
+      }
+    },
+    "border width": {
+      "border-none": {
+        "value": "{dimension.dimension-0}",
+        "type": "borderWidth"
+      },
+      "border-thin": {
+        "value": "{dimension.dimension-0-25}",
+        "type": "borderWidth"
+      },
+      "border-default": {
+        "value": "{dimension.dimension-0-5}",
+        "type": "borderWidth"
+      },
+      "border-thick": {
+        "value": "{dimension.dimension-1}",
+        "type": "borderWidth"
+      }
+    },
+    "size": {
+      "size-xs": {
+        "value": "{dimension.dimension-3}",
+        "type": "sizing"
+      },
+      "size-sm": {
+        "value": "{dimension.dimension-4}",
+        "type": "sizing"
+      },
+      "size-md": {
+        "value": "{dimension.dimension-5}",
+        "type": "sizing"
+      },
+      "size-lg": {
+        "value": "{dimension.dimension-6}",
+        "type": "sizing"
+      },
+      "size-xl": {
+        "value": "{dimension.dimension-8}",
+        "type": "sizing"
+      },
+      "size-2xl": {
+        "value": "{dimension.dimension-10}",
+        "type": "sizing"
+      },
+      "size-3xl": {
+        "value": "{dimension.dimension-12}",
+        "type": "sizing"
+      },
+      "size-4xl": {
+        "value": "{dimension.dimension-14}",
+        "type": "sizing"
+      },
+      "size-5xl": {
+        "value": "{dimension.dimension-16}",
+        "type": "sizing"
+      }
+    }
+  },
+  "Desktop": {
+    "text": {
+      "heading": {
+        "h1": {
+          "light": {
+            "value": {
+              "fontFamily": "{font.family.title}",
+              "fontWeight": "{font.weight.300}",
+              "fontSize": "{dimension.dimension-14}",
+              "lineHeight": "{dimension.dimension-18}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          },
+          "regular": {
+            "value": {
+              "fontFamily": "{font.family.title}",
+              "fontWeight": "{font.weight.400}",
+              "fontSize": "{dimension.dimension-14}",
+              "lineHeight": "{dimension.dimension-18}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          },
+          "bold": {
+            "value": {
+              "fontFamily": "{font.family.title}",
+              "fontWeight": "{font.weight.700}",
+              "fontSize": "{dimension.dimension-14}",
+              "lineHeight": "{dimension.dimension-18}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          }
+        },
+        "h2": {
+          "light": {
+            "value": {
+              "fontFamily": "{font.family.title}",
+              "fontWeight": "{font.weight.300}",
+              "fontSize": "{dimension.dimension-12}",
+              "lineHeight": "{dimension.dimension-16}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          },
+          "regular": {
+            "value": {
+              "fontFamily": "{font.family.title}",
+              "fontWeight": "{font.weight.400}",
+              "fontSize": "{dimension.dimension-12}",
+              "lineHeight": "{dimension.dimension-16}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          },
+          "bold": {
+            "value": {
+              "fontFamily": "{font.family.title}",
+              "fontWeight": "{font.weight.700}",
+              "fontSize": "{dimension.dimension-12}",
+              "lineHeight": "{dimension.dimension-16}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          }
+        },
+        "h3": {
+          "light": {
+            "value": {
+              "fontFamily": "{font.family.title}",
+              "fontWeight": "{font.weight.300}",
+              "fontSize": "{dimension.dimension-10}",
+              "lineHeight": "{dimension.dimension-14}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          },
+          "regular": {
+            "value": {
+              "fontFamily": "{font.family.title}",
+              "fontWeight": "{font.weight.400}",
+              "fontSize": "{dimension.dimension-10}",
+              "lineHeight": "{dimension.dimension-14}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          },
+          "bold": {
+            "value": {
+              "fontFamily": "{font.family.title}",
+              "fontWeight": "{font.weight.700}",
+              "fontSize": "{dimension.dimension-10}",
+              "lineHeight": "{dimension.dimension-14}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          }
+        },
+        "h4": {
+          "light": {
+            "value": {
+              "fontFamily": "{font.family.title}",
+              "fontWeight": "{font.weight.300}",
+              "fontSize": "{dimension.dimension-8}",
+              "lineHeight": "{dimension.dimension-11}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          },
+          "regular": {
+            "value": {
+              "fontFamily": "{font.family.title}",
+              "fontWeight": "{font.weight.400}",
+              "fontSize": "{dimension.dimension-8}",
+              "lineHeight": "{dimension.dimension-11}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          },
+          "bold": {
+            "value": {
+              "fontFamily": "{font.family.title}",
+              "fontWeight": "{font.weight.700}",
+              "fontSize": "{dimension.dimension-8}",
+              "lineHeight": "{dimension.dimension-11}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          }
+        },
+        "h5": {
+          "light": {
+            "value": {
+              "fontFamily": "{font.family.title}",
+              "fontWeight": "{font.weight.300}",
+              "fontSize": "{dimension.dimension-6}",
+              "lineHeight": "{dimension.dimension-8}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          },
+          "regular": {
+            "value": {
+              "fontFamily": "{font.family.title}",
+              "fontWeight": "{font.weight.400}",
+              "fontSize": "{dimension.dimension-6}",
+              "lineHeight": "{dimension.dimension-8}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          },
+          "bold": {
+            "value": {
+              "fontFamily": "{font.family.title}",
+              "fontWeight": "{font.weight.700}",
+              "fontSize": "{dimension.dimension-6}",
+              "lineHeight": "{dimension.dimension-8}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          }
+        }
+      },
+      "body": {
+        "lg": {
+          "light": {
+            "value": {
+              "fontFamily": "{font.family.body}",
+              "fontWeight": "{font.weight.300}",
+              "fontSize": "{dimension.dimension-4-5}",
+              "lineHeight": "{dimension.dimension-7}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          },
+          "regular": {
+            "value": {
+              "fontFamily": "{font.family.body}",
+              "fontWeight": "{font.weight.400}",
+              "fontSize": "{dimension.dimension-4-5}",
+              "lineHeight": "{dimension.dimension-7}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          },
+          "bold": {
+            "value": {
+              "fontFamily": "{font.family.body}",
+              "fontWeight": "{font.weight.700}",
+              "fontSize": "{dimension.dimension-4-5}",
+              "lineHeight": "{dimension.dimension-7}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          }
+        },
+        "md": {
+          "light": {
+            "value": {
+              "fontFamily": "{font.family.body}",
+              "fontWeight": "{font.weight.300}",
+              "fontSize": "{dimension.dimension-4}",
+              "lineHeight": "{dimension.dimension-6}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          },
+          "regular": {
+            "value": {
+              "fontFamily": "{font.family.body}",
+              "fontWeight": "{font.weight.400}",
+              "fontSize": "{dimension.dimension-4}",
+              "lineHeight": "{dimension.dimension-6}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          },
+          "bold": {
+            "value": {
+              "fontFamily": "{font.family.body}",
+              "fontWeight": "{font.weight.700}",
+              "fontSize": "{dimension.dimension-4}",
+              "lineHeight": "{dimension.dimension-6}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          }
+        },
+        "sm": {
+          "light": {
+            "value": {
+              "fontFamily": "{font.family.body}",
+              "fontWeight": "{font.weight.300}",
+              "fontSize": "{dimension.dimension-3-5}",
+              "lineHeight": "{dimension.dimension-5}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          },
+          "regular": {
+            "value": {
+              "fontFamily": "{font.family.body}",
+              "fontWeight": "{font.weight.400}",
+              "fontSize": "{dimension.dimension-3-5}",
+              "lineHeight": "{dimension.dimension-5}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          },
+          "bold": {
+            "value": {
+              "fontFamily": "{font.family.body}",
+              "fontWeight": "{font.weight.700}",
+              "fontSize": "{dimension.dimension-3-5}",
+              "lineHeight": "{dimension.dimension-5}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          }
+        }
+      }
+    }
+  },
+  "Mobile": {
+    "text": {
+      "heading": {
+        "h1": {
+          "light": {
+            "value": {
+              "fontFamily": "{font.family.title}",
+              "fontWeight": "{font.weight.300}",
+              "fontSize": "{dimension.dimension-10}",
+              "lineHeight": "{dimension.dimension-13}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          },
+          "regular": {
+            "value": {
+              "fontFamily": "{font.family.title}",
+              "fontWeight": "{font.weight.400}",
+              "fontSize": "{dimension.dimension-10}",
+              "lineHeight": "{dimension.dimension-13}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          },
+          "bold": {
+            "value": {
+              "fontFamily": "{font.family.title}",
+              "fontWeight": "{font.weight.700}",
+              "fontSize": "{dimension.dimension-10}",
+              "lineHeight": "{dimension.dimension-13}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          }
+        },
+        "h2": {
+          "light": {
+            "value": {
+              "fontFamily": "{font.family.title}",
+              "fontWeight": "{font.weight.300}",
+              "fontSize": "{dimension.dimension-9}",
+              "lineHeight": "{dimension.dimension-11}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          },
+          "regular": {
+            "value": {
+              "fontFamily": "{font.family.title}",
+              "fontWeight": "{font.weight.400}",
+              "fontSize": "{dimension.dimension-9}",
+              "lineHeight": "{dimension.dimension-11}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          },
+          "bold": {
+            "value": {
+              "fontFamily": "{font.family.title}",
+              "fontWeight": "{font.weight.700}",
+              "fontSize": "{dimension.dimension-9}",
+              "lineHeight": "{dimension.dimension-11}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          }
+        },
+        "h3": {
+          "light": {
+            "value": {
+              "fontFamily": "{font.family.title}",
+              "fontWeight": "{font.weight.300}",
+              "fontSize": "{dimension.dimension-7}",
+              "lineHeight": "{dimension.dimension-10}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          },
+          "regular": {
+            "value": {
+              "fontFamily": "{font.family.title}",
+              "fontWeight": "{font.weight.400}",
+              "fontSize": "{dimension.dimension-7}",
+              "lineHeight": "{dimension.dimension-10}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          },
+          "bold": {
+            "value": {
+              "fontFamily": "{font.family.title}",
+              "fontWeight": "{font.weight.700}",
+              "fontSize": "{dimension.dimension-7}",
+              "lineHeight": "{dimension.dimension-10}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          }
+        },
+        "h4": {
+          "light": {
+            "value": {
+              "fontFamily": "{font.family.title}",
+              "fontWeight": "{font.weight.300}",
+              "fontSize": "{dimension.dimension-5-5}",
+              "lineHeight": "{dimension.dimension-8}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          },
+          "regular": {
+            "value": {
+              "fontFamily": "{font.family.title}",
+              "fontWeight": "{font.weight.400}",
+              "fontSize": "{dimension.dimension-5-5}",
+              "lineHeight": "{dimension.dimension-8}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          },
+          "bold": {
+            "value": {
+              "fontFamily": "{font.family.title}",
+              "fontWeight": "{font.weight.700}",
+              "fontSize": "{dimension.dimension-5-5}",
+              "lineHeight": "{dimension.dimension-8}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          }
+        },
+        "h5": {
+          "light": {
+            "value": {
+              "fontFamily": "{font.family.title}",
+              "fontWeight": "{font.weight.300}",
+              "fontSize": "{dimension.dimension-4-5}",
+              "lineHeight": "{dimension.dimension-5-5}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          },
+          "regular": {
+            "value": {
+              "fontFamily": "{font.family.title}",
+              "fontWeight": "{font.weight.400}",
+              "fontSize": "{dimension.dimension-4-5}",
+              "lineHeight": "{dimension.dimension-5-5}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          },
+          "bold": {
+            "value": {
+              "fontFamily": "{font.family.title}",
+              "fontWeight": "{font.weight.700}",
+              "fontSize": "{dimension.dimension-4-5}",
+              "lineHeight": "{dimension.dimension-5-5}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          }
+        }
+      },
+      "body": {
+        "lg": {
+          "light": {
+            "value": {
+              "fontFamily": "{font.family.body}",
+              "fontWeight": "{font.weight.300}",
+              "fontSize": "{dimension.dimension-3}",
+              "lineHeight": "{dimension.dimension-5}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          },
+          "regular": {
+            "value": {
+              "fontFamily": "{font.family.body}",
+              "fontWeight": "{font.weight.400}",
+              "fontSize": "{dimension.dimension-3}",
+              "lineHeight": "{dimension.dimension-5}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          },
+          "bold": {
+            "value": {
+              "fontFamily": "{font.family.body}",
+              "fontWeight": "{font.weight.700}",
+              "fontSize": "{dimension.dimension-3}",
+              "lineHeight": "{dimension.dimension-5}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          }
+        },
+        "md": {
+          "light": {
+            "value": {
+              "fontFamily": "{font.family.body}",
+              "fontWeight": "{font.weight.300}",
+              "fontSize": "{dimension.dimension-3}",
+              "lineHeight": "{dimension.dimension-4}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          },
+          "regular": {
+            "value": {
+              "fontFamily": "{font.family.body}",
+              "fontWeight": "{font.weight.400}",
+              "fontSize": "{dimension.dimension-3}",
+              "lineHeight": "{dimension.dimension-4}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          },
+          "bold": {
+            "value": {
+              "fontFamily": "{font.family.body}",
+              "fontWeight": "{font.weight.700}",
+              "fontSize": "{dimension.dimension-3}",
+              "lineHeight": "{dimension.dimension-4}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          }
+        },
+        "sm": {
+          "light": {
+            "value": {
+              "fontFamily": "{font.family.body}",
+              "fontWeight": "{font.weight.300}",
+              "fontSize": "{dimension.dimension-2-5}",
+              "lineHeight": "{dimension.dimension-3-5}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          },
+          "regular": {
+            "value": {
+              "fontFamily": "{font.family.body}",
+              "fontWeight": "{font.weight.400}",
+              "fontSize": "{dimension.dimension-2-5}",
+              "lineHeight": "{dimension.dimension-3-5}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          },
+          "bold": {
+            "value": {
+              "fontFamily": "{font.family.body}",
+              "fontWeight": "{font.weight.700}",
+              "fontSize": "{dimension.dimension-2-5}",
+              "lineHeight": "{dimension.dimension-3-5}",
+              "letterSpacing": "{dimension.dimension-0}"
+            },
+            "type": "typography"
+          }
+        }
+      }
+    }
+  },
+  "$themes": [
+    {
+      "id": "primitive-primitive",
+      "name": "Primitive",
+      "group": "Primitive",
+      "selectedTokenSets": {
+        "Primitive/Primitive": "enabled"
+      },
+      "$figmaStyleReferences": {},
+      "$figmaVariableReferences": {
+        "color.gray.50": "0e5840ea7faef96507bee6c12b6e38c17696a8af",
+        "color.gray.100": "651d7bf0822fe477af9ef3f0fbf547dd42466169",
+        "color.gray.200": "27ed0d363b58cc40bd016811f991019367cf61ff",
+        "color.gray.300": "d4362471f3229c6f3d2afbb5f2374a11e7ff4833",
+        "color.gray.400": "faa0ebcde3dc1d5bf1568c3436b1ed6487e87896",
+        "color.gray.500": "93072d4ffe45a578d3e0c64dea4467b88f852096",
+        "color.gray.600": "3badfae55a3ab1aeca095df43e285cd105ff7d8b",
+        "color.gray.700": "d30d4170a79be2ed2311e5db8a936a9c2087133e",
+        "color.gray.800": "d91d420960d3c74da0286ab2e1e7ff7fdf379f9b",
+        "color.gray.900": "324100081a4b35f76e5cbc1f5209a1b420751a9d",
+        "color.brand.100": "4af6d401b0f5b9e175fe8e8dbcbccf2f15819cf1",
+        "color.brand.300": "3d63fe2474b3986bc6f19f302ec559d581a909f3",
+        "color.brand.500": "0d540c990b99e2ad227cb6b61a5dbd1f8e90b063",
+        "color.brand.700": "3bdb5c4f2a04362e4a5953daf76cb3a2c03bc116",
+        "color.brand.900": "da5e62581c6069948ec73a55c2ffdafaa45da278",
+        "color.blue.100": "442ea584a4e7dc33fff0f79fd5f8e4b16a1148d3",
+        "color.blue.300": "c00d2eb3448f54d6eba5eceb05ae31b99b3f6ed1",
+        "color.blue.500": "b4265aa2c7e3a8f0a844330af2125d102445ba12",
+        "color.blue.700": "fc894672f276a8242ccbab7f28a1036fd9c0410c",
+        "color.blue.900": "a0a503e5b67ba663b2a8bb016bda442ae3ec9a72",
+        "color.green.100": "318fec9eaba31ccb05f4ef5006884edba7a2e55b",
+        "color.green.300": "2dd906f6a8f046ec196c17f33fad7bef03d12095",
+        "color.green.500": "e473cb3572d25e11c296d5e2b29f01d13fdf7fd0",
+        "color.green.700": "d684e73aa4e0b1820739b2a7382546ac71b843dc",
+        "color.green.900": "90260c5302d3e21ac703d20d19f9bac2336bd67c",
+        "color.red.100": "4f942113ea83474c56d545b74ec9c6769776f46a",
+        "color.red.300": "8f543bbed5109ca1e98b92e9e00e4df9d9dda9b0",
+        "color.red.500": "332b61abce9f5c1f4bf707c8a2df72d5d1548f3f",
+        "color.red.700": "b22ab535038bd335da0ed54aa44b9cc56bdd931a",
+        "color.red.900": "f059b9f1c819899a34d014a4c361ca77b7d58e00",
+        "color.pink.100": "40a7a0a01c413524e0195cdfa9075197db9e4bc8",
+        "color.pink.300": "4e2e4e0c230dce4c1687c9ea1f84f1e7a37455eb",
+        "color.pink.500": "9e522617d9052505d7d342a43777d6b999e85600",
+        "color.pink.700": "d871eefdd760eb74adcb0ac0864f85d0af98b2bf",
+        "color.pink.900": "8d09711cc20d3134eb140d5b8f3c2f1538c219c4",
+        "color.orange.100": "83fdecf39bb56262ca1bf4d1d54462e3100d6798",
+        "color.orange.300": "c86b962268b65a2e3bf35657b576361a57bb4389",
+        "color.orange.500": "cd0ca17bf8f16539c82bdd9a4eaa0f62d0d04202",
+        "color.orange.700": "b4f64588319ccaeeb563e1d26e0da130f8fd6c5d",
+        "color.orange.900": "903ebb98caf8b11b44a69f8072d5edd64ba3686a",
+        "color.yellow.100": "c070a22f790c44e4730cf18f26a4ce3053b89b0b",
+        "color.yellow.300": "6632d39642c256b80f3c4e3e4aba384314227b97",
+        "color.yellow.500": "19649e7c24599be91ffa81b7fd79372eab3be845",
+        "color.yellow.700": "ad56ca0f3a48b653d0364cd66dbdb54495c9038e",
+        "color.yellow.900": "ebfd4314945fa8322e1308f29a70209f1c1f50c7",
+        "dimension.dimension-0": "f9a013f33e0561bd280cdad7f0b78ad64ff18782",
+        "dimension.dimension-0-5": "8d71e0ba9e7181500616ef055f766fabdd22e73c",
+        "dimension.dimension-1": "8d971aeed90e7054e57b54049af1d81a7dd2aa79",
+        "dimension.dimension-1-5": "fb18969be8ce3a1bf226dd927307b3352c0d7645",
+        "dimension.dimension-2": "57dc34b2a88e2bf598df119135d2e648730653c4",
+        "dimension.dimension-2-5": "585609f0aadcdce3dcf69731a538d664db1de77a",
+        "dimension.dimension-3": "804e1384f881501b9f0f6ba6b96ffb727a92fc50",
+        "dimension.dimension-3-5": "46cefe67c1a9af7b3d45ed357b9391cc5495e099",
+        "dimension.dimension-4": "badd06721fc2470b2b45ecf2b28ddf37ee8a6d7f",
+        "dimension.dimension-4-5": "aefccfa55620d1a52b5af77058915cb8d5937fdd",
+        "dimension.dimension-5": "029eace53e4c7e95d50e741b0677cd3c97137210",
+        "dimension.dimension-5-5": "44bb5df60d699483f0d439dcd405e5c85ffd5bd4",
+        "dimension.dimension-6": "c008c02217e1015953cefe26dcc97c31496fadb2",
+        "dimension.dimension-7": "ba6f519d0bb426808f8aa54052ba246fb39d6100",
+        "dimension.dimension-8": "01ec855819bde900a8bc72bbb5c22fc1cf9c5074",
+        "dimension.dimension-9": "a02b8cbd325a757189cc9d5ba20bbdeadf5c3d03",
+        "dimension.dimension-10": "0d79378acf1fd53140d4048845e729a064e80036",
+        "dimension.dimension-11": "e886a836a00a955ec1a178ffc34c2537323a11e3",
+        "dimension.dimension-12": "1456bf9739a76ed6bbbabda455dd32260822f2d5",
+        "dimension.dimension-13": "e1a87f5053dae6edd024b95b25b57c64d676488d",
+        "dimension.dimension-14": "11e728ac2e72303017aa32613bd5063f665cd687",
+        "dimension.dimension-15": "06d87dd200b7fac1bb3148f27d2cd397ff8eddac",
+        "dimension.dimension-16": "bd417a9f48d15026698cea73019157dc26cc585a",
+        "dimension.dimension-18": "b87c8091a36f7608dddacf5493814bb4362b7163",
+        "dimension.dimension-20": "94929ada947de3ecb099d650d9941492836f795a",
+        "dimension.dimension-22": "c2a82a4780fcdec96e2a2da58b9338f66149197b",
+        "dimension.dimension-24": "b61602c007c07cab5b3dfb6b57ebe2d0d12c4c66",
+        "dimension.dimension-999": "cf9d9b20d91a644e09596af31387bdc46e0466a7",
+        "font.family.title": "f75c0c5ae29133f3d905d982dba5f4d2f8dd03e0",
+        "font.family.body": "12ed6d31e137d75d958320645de71a2fecaf7fe8",
+        "font.weight.100": "43bfd5d2b14a052ecf5928c266c959b2598b06e2",
+        "font.weight.200": "f769ba3a9f3fb5276ac20537d266f44d77684eab",
+        "font.weight.300": "2108ae1004c5d8699c955b6584939d23244438fb",
+        "font.weight.400": "8648bf0ba3d4d20f7af800c7ee94cb11baf43a10",
+        "font.weight.500": "031f4fc43b7b74559054a4610f0bc5dba21f04da",
+        "font.weight.600": "15d72ee42022e64e4f35e143f5c2fdda4ce1135a",
+        "font.weight.700": "0f9db6aafccae2705782c68b44798d621f113cf0",
+        "font.weight.800": "21d8a04eb20a5de133319452fa19e7e68d88b32b",
+        "font.weight.900": "d2a81fd7a66171845ccb78b4d89a6b5032b4ea78"
+      },
+      "$figmaModeId": "58:0",
+      "$figmaCollectionId": "VariableCollectionId:58:2"
+    },
+    {
+      "id": "whitelabel -light",
+      "name": "Light",
+      "selectedTokenSets": {
+        "Whitelabel /Light": "enabled"
+      },
+      "$figmaStyleReferences": {
+        "color.bg.neutral.default": "S:54961f0a942306180904d002edeaa57a90049e1d,",
+        "color.bg.neutral.hovered": "S:7e1da53af8aec1288ffaae3c0651dbbea8d9355e,",
+        "color.bg.neutral.pressed": "S:a6d0c7b6abab8be20f82625dc6f7b39d7612eb09,",
+        "color.bg.neutral.selected": "S:1a61df78dbb58e01dde628062b8636642e37d23b,",
+        "color.bg.neutral.disabled": "S:012182f418c2995da1781dce6cd0084f4995104c,",
+        "color.bg.brand.default": "S:b21e4720f2cc018be7a359e552445357296573c6,",
+        "color.bg.brand.hovered": "S:4d759cca59b39b4ad176755fdcf88116da144fde,",
+        "color.bg.brand.pressed": "S:2ac05744e0781558458e511280c5836a966a42d7,",
+        "color.bg.brand.selected": "S:e5b3ef471ab85253df3c08a8f248523b5eb9c582,",
+        "color.bg.brand.disabled": "S:b52066eb8a97b1a0705597927285e13fffe56002,",
+        "color.bg.info.default": "S:754d39a8f28eaa76a2d8791974553f9ffa4b9505,",
+        "color.bg.info.hovered": "S:36690274af976615df0a5ccd1ea5da6444e800e5,",
+        "color.bg.info.pressed": "S:52d078f27dea0478e669407dc07d22312c92c996,",
+        "color.bg.info.selected": "S:2f3c06cdcd6668a922e34e2ae5a4163d3c68b411,",
+        "color.bg.info.disabled": "S:5d916756610061eb30f43564f7f5dbadcbbac888,",
+        "color.bg.success.default": "S:e90b3bb66ea12fee57e49832c65c0cdc355647c3,",
+        "color.bg.success.hovered": "S:0db9c22390eaa9a940357bfd4a7c26569b018ae3,",
+        "color.bg.success.pressed": "S:81028b9bb5b7d3cf01678f00182dea870d4a8bdd,",
+        "color.bg.success.selected": "S:c39439ad5f5f116452cfd5b2afb24f6acd4f5078,",
+        "color.bg.success.disabled": "S:f7988aa995113b9dd4cdef0c4f1c7f9d9b839bed,",
+        "color.bg.warning.default": "S:238a1257409b5461800c598401cef32e34765aa6,",
+        "color.bg.warning.hovered": "S:645ad25895ef7b65274f50391719d521fc45a839,",
+        "color.bg.warning.pressed": "S:83b4691549537e6886deeccb2c54be9293316528,",
+        "color.bg.warning.selected": "S:52fd635fd90b6d6a35920ae702f398ae94715327,",
+        "color.bg.warning.disabled": "S:0f14be29137d72bfd70cc462de67f2dff5d4f906,",
+        "color.bg.danger.default": "S:90c1969a884965fa470cdcfc3692a00f3ead5198,",
+        "color.bg.danger.hovered": "S:360470f3a36f9288c7451126c365c04408cb3bb9,",
+        "color.bg.danger.pressed": "S:668eba86d8337d784f17cabdeea52caaa2717c89,",
+        "color.bg.danger.selected": "S:db703b2ffffc0d62bcd895cedca7c6b7ec5b44e2,",
+        "color.bg.danger.disabled": "S:123c2fa69af4ad2e7d3785352093a3a8700f2f47,",
+        "color.bg.inverse.default": "S:a573eee096369fdef5ca97ef5c50d3678096bf5c,",
+        "color.bg.inverse.hovered": "S:fd961370f47a0f3219f7ea8ab17c5e01199c7916,",
+        "color.bg.inverse.pressed": "S:4e2a60c69837241d639574f4b14530f0a08a2f0b,",
+        "color.bg.inverse.selected": "S:c583cc76e9f1c2c1ce0b865a72fbee14920a1f8a,",
+        "color.bg.inverse.disabled": "S:2c02b3846bc297d53d7fa30c035e589ee06cc14f,",
+        "color.text.neutral.default": "S:b119540f6c6b65a2965d5682567a4a5cae09060f,",
+        "color.text.neutral.hovered": "S:351f69764980da6bbf3cce1a19f7f94c73945ba6,",
+        "color.text.neutral.selected": "S:3efc9c8cd671feee79693026d3f9a61745c557f0,",
+        "color.text.neutral.disabled": "S:6f41a25fc7cc42625adb0ab03f2ceb2936a44be8,",
+        "color.text.brand.default": "S:78c90c414a5b0f2e903b8326838e1249ee2793d4,",
+        "color.text.brand.hovered": "S:cbe2bdfdb554bf0360cf191b6cf270bc8fc575e2,",
+        "color.text.brand.selected": "S:5162b1af8ff640866288a5ba05d96911f415e529,",
+        "color.text.brand.disabled": "S:e2350ecfeb72cd261b31d8c5063bea184a1d70e9,",
+        "color.text.info.default": "S:d554e4a377bbf7df43abfa9d436150723bebc463,",
+        "color.text.info.hovered": "S:47f56c29ef980f3fe0bfc9d91337de9d6e147f46,",
+        "color.text.info.selected": "S:e80e63b2568ee2c79b96bd6f55093e9023e67762,",
+        "color.text.info.disabled": "S:91db66a084b795336c79850294ef2165684ded6c,",
+        "color.text.success.default": "S:84c4e48392036cd9357d4d65484632e8109a146e,",
+        "color.text.success.hovered": "S:64fe8877b1d12aa0b94e9098811beb6057b859b9,",
+        "color.text.success.selected": "S:a81b428415833541ffb56b912e3fd10a1b50d646,",
+        "color.text.success.disabled": "S:32228433954ce50b28acdb9f665f145122ac3960,",
+        "color.text.warning.default": "S:0ee99fbcfb695bfa861d7e12c80a559de1d982b0,",
+        "color.text.warning.hovered": "S:b83d4f4848e6661f4f52452536c936811c082579,",
+        "color.text.warning.selected": "S:628692254d528a8e8a17d2fb593f3da9127e2acf,",
+        "color.text.warning.disabled": "S:bc8b39a40676a9a2fbb6e57f349efa249c46bda4,",
+        "color.text.danger.default": "S:86fa7a11ea76d27d337f8311ab68d78bba8bf719,",
+        "color.text.danger.hovered": "S:1e0cece15ae43cad5ba74aa0205a4a47866fac71,",
+        "color.text.danger.selected": "S:20071a2245c35bd504110a374f7d13ea793030bc,",
+        "color.text.danger.disabled": "S:14199ad841e19a4e0328daedffe12be17f41243b,",
+        "color.text.inverse.default": "S:ef2d52bd7221484cb0321be852432f735f7ce2f0,",
+        "color.text.inverse.hovered": "S:255ee9e13c6146a89d0e745209843b39a4ece10b,",
+        "color.text.inverse.selected": "S:33d01e1e3857bb7efdf08eb2219a2ad61c04eef9,",
+        "color.text.inverse.disabled": "S:09aa940487adecc7df554ac8ddf8b995e7194af9,",
+        "color.icon.neutral.default": "S:0a7457e1f0f4a99e99a95e841d1428fd27af4929,",
+        "color.icon.neutral.hovered": "S:d2afcc16500ed1493aa52786f4c9707669f7d84b,",
+        "color.icon.neutral.selected": "S:f2d3ea7dda1cf850f6ac19712747512caa47764e,",
+        "color.icon.neutral.disabled": "S:25cf90cb9db71fa1c47a27f38692a79c6f7e7608,",
+        "color.icon.brand.default": "S:f1a69a90f443ed12680fac2dad628f9d8065976b,",
+        "color.icon.brand.hovered": "S:2b085d4679f0c5929b943aca2782efe7b50d85a0,",
+        "color.icon.brand.selected": "S:be77f4af5990b578c93b699ffee3964f347621f4,",
+        "color.icon.brand.disabled": "S:af05dfc41d07768e7ccd3fafb5ed0f9405aa554a,",
+        "color.icon.info.default": "S:24f86ad475ac6f009f0a0563e9d7adcdc0f46084,",
+        "color.icon.info.hovered": "S:a1332967a239029a310ff514e75bd7bb92bb3786,",
+        "color.icon.info.selected": "S:94da4074006dcdfb3ef7a997cc8cc2ed11f3e3d4,",
+        "color.icon.info.disabled": "S:2f0ff984e1db90c307fe8b44d332691bc7ee1a8d,",
+        "color.icon.success.default": "S:cecf13cb447113f99cf7b60b0230991f5f5040a0,",
+        "color.icon.success.hovered": "S:4e0ed4a34232defb86bb80838fba57411549f2f8,",
+        "color.icon.success.selected": "S:c307015241ba5d4c53fb8ba1f519877a94535756,",
+        "color.icon.success.disabled": "S:12adcf807886678be73d9db3cccf2c65fb589828,",
+        "color.icon.warning.default": "S:dc6013220bf8a93db05d52ba952c2bdd73ec8050,",
+        "color.icon.warning.hovered": "S:e52b2f450c3d9b9496654857f771c9ddfeb36bd0,",
+        "color.icon.warning.selected": "S:9fa235b7fd0e98b316ed609ae4df26a4a0cf4616,",
+        "color.icon.warning.disabled": "S:6c456b07321d8772139ae561165f3372e969d3ea,",
+        "color.icon.danger.default": "S:68dc7244e29914c7912e7be95bcc4d0326fa4497,",
+        "color.icon.danger.hovered": "S:4d0ea78b2d911a0b7288ba8061f1d233bb86e0e7,",
+        "color.icon.danger.selected": "S:73a1592b5a8b5a45cfde4be2bcebaa3adb8b8903,",
+        "color.icon.danger.disabled": "S:a417e453f99f343ca0da004533a44efbcce7f213,",
+        "color.icon.inverse.default": "S:2a29f2d2f527e039e10913abedaab91859ebe9a8,",
+        "color.icon.inverse.hovered": "S:e9f3d41ee0cb3c8f092f3440c2c2082ba68d6d46,",
+        "color.icon.inverse.selected": "S:a4239e4b71e3a9c81686a246331ebcc5f86b121e,",
+        "color.icon.inverse.disabled": "S:603c0707ff0529cc1556100c263a35e16c48eb50,",
+        "color.border.neutral.default": "S:34b4543c40ae4960b8b77126892b1674a314d6e7,",
+        "color.border.neutral.hovered": "S:96cfa84bfe93f16909f46e92bdfe8bf5d140c3de,",
+        "color.border.neutral.pressed": "S:803d14ddf90fcebd159bbfae97ce4669db83da3d,",
+        "color.border.neutral.selected": "S:9554efd1b46a97378f054c035937784f59e332dc,",
+        "color.border.neutral.disabled": "S:60aed5e82c988189e616fabc396e81fe0be68ebe,",
+        "color.border.brand.default": "S:da6a25a1d0747fe750b3b0491ad9fca17349ba78,",
+        "color.border.brand.hovered": "S:628c40780809255dde92c4108ae3e55d55396bdd,",
+        "color.border.brand.pressed": "S:5beaa50c6bb99340936c33a9b32e880e2a2905a6,",
+        "color.border.brand.selected": "S:c89ca159f3634641580a1e47a4650a3c2ff3176f,",
+        "color.border.brand.disabled": "S:e0314ef2c189027245254672ee621cac105c7e5d,",
+        "color.border.info.default": "S:a09e16ca7f73b51d596055807fea05d67b3143f1,",
+        "color.border.info.hovered": "S:499656228d9dcb5b1441240ce0912ce24eea72ec,",
+        "color.border.info.pressed": "S:24e0b6391282fa570043a5a3f620306553f90cbd,",
+        "color.border.info.selected": "S:45080b61af14f247fd3b5b174940136087f3e380,",
+        "color.border.info.disabled": "S:d1f8862a3a59c13033918c736b2d2c8d17fefca3,",
+        "color.border.success.default": "S:cf65293584a7a600f6058828b9f094a542c4302e,",
+        "color.border.success.hovered": "S:eba61a74fa4521ddaad506277883b5870ac30e3f,",
+        "color.border.success.pressed": "S:ed253a78cf75f3a48397de55c915607b689361ae,",
+        "color.border.success.selected": "S:20bbb86ce07b6d8514468612d2a20e2f59282973,",
+        "color.border.success.disabled": "S:f0c2281de3b444d528e1f66919453d72484f80f0,",
+        "color.border.warning.default": "S:4eaa02ef238733fdf6d0112d6748ce20356bf6b8,",
+        "color.border.warning.hovered": "S:0f712431b8ab5d098533ae1dfe688547d017bc49,",
+        "color.border.warning.pressed": "S:2420ed2475a5afef8446d32afa16aaf1f0ac2aaa,",
+        "color.border.warning.selected": "S:7e7f37a626151b44ddb4bb10d52e319546dad3c6,",
+        "color.border.warning.disabled": "S:9478b21d5476179761354d381e18f8735f843cb6,",
+        "color.border.danger.default": "S:a961068f77ce26d80e2cfc95dd11ca40c64982c9,",
+        "color.border.danger.hovered": "S:fbc26fa18febe6b5947a974b491dd7096ee65960,",
+        "color.border.danger.pressed": "S:b00af2dbb2cc27bf5de67bc74651033602391770,",
+        "color.border.danger.selected": "S:d0ea98ade5657e7a3783566191575d4f58cccf1a,",
+        "color.border.danger.disabled": "S:694472ffae083142a73b8abf01125a3508aa5478,",
+        "color.border.inverse.default": "S:8de3da7cbff509dd3ed7a1cb73536091dd7db496,",
+        "color.border.inverse.hovered": "S:08cc0e795e255257ebe28f0ed60f721dbda0889e,",
+        "color.border.inverse.pressed": "S:40c7637c0bbd8ab9b5970ff93c0cfc8175e38e4d,",
+        "color.border.inverse.selected": "S:b86ce287484f0e633cbe02c12384ac7e8b5a98c2,",
+        "color.border.inverse.disabled": "S:27b6fe52e59e4442f2057c5be89bc4787a1d82c3,",
+        "color.link.neutral.default": "S:25b1e3fee0e033aabc17fbb28d5c1423b26e1141,",
+        "color.link.neutral.hovered": "S:cde4f56efcd9fd1ffae13c95996818c669c3e907,",
+        "color.link.neutral.pressed": "S:10c8be74c86a4530f909ed8b5164b2b4cf89af8e,",
+        "color.link.neutral.visited": "S:46f67e0765bfbf62007b975b2021a78dbff32815,",
+        "color.link.neutral.disabled": "S:9d78e4c2abacf8793cfe91a42aa38be204f26d36,",
+        "color.link.brand.default": "S:0b3504b0954fa8798421fc0481cd06cac0632ffd,",
+        "color.link.brand.hovered": "S:96178d86ce3c4913cec810680bf6179925ea24c3,",
+        "color.link.brand.pressed": "S:29918494ed837f8dbb8bd575db6335f9a0db5592,",
+        "color.link.brand.visited": "S:322017682798ddabd7dbac6b5e7c417b727d5791,",
+        "color.link.brand.disabled": "S:69d496203d9bab097df77348ad6909bcc31b2e30,",
+        "color.link.info.default": "S:283ee3fa874e6dff1a7bb8ef6e6145e245e7fb9c,",
+        "color.link.info.hovered": "S:d64352083a14b3f92d6c6a0a31d33b3cf6234af4,",
+        "color.link.info.pressed": "S:8523800ee658fb505f12932dddceb8725efb24fa,",
+        "color.link.info.visited": "S:afe574c6ca32c5333fab8c4a715ed18a21751b01,",
+        "color.link.info.disabled": "S:9086f78ca649020cde38e7ae3169ddab827d3edf,",
+        "color.link.success.default": "S:39dd8fca49aa375bae8df3d05afbf04f99288e2d,",
+        "color.link.success.hovered": "S:267ca10cb9398956e3d430bfcc05191df9b8583b,",
+        "color.link.success.pressed": "S:854e21d9a0344e044c2f8d5473be79fbedd6a87e,",
+        "color.link.success.visited": "S:ec9e6f383950bb2500e4a99e2cbd45f041ad55eb,",
+        "color.link.success.disabled": "S:4ddd6131bac0252d62e2b980716f99045ab8910e,",
+        "color.link.warning.default": "S:1c0065edddf4a795d798f21355efc11b828c4dc9,",
+        "color.link.warning.hovered": "S:806b9a8e5a056a434a6ab375493e2c03b62d1552,",
+        "color.link.warning.pressed": "S:65667e98a144858579ad1220b70d5680453f4f40,",
+        "color.link.warning.visited": "S:f3d1e17d112611ed968f2c4fe669122d1d505398,",
+        "color.link.warning.disabled": "S:43d41810b84789db9187b0e267fb3c5c7f8bc0f7,",
+        "color.link.danger.default": "S:966d96822f00c4d2cf48468dce03c7451a5b0b90,",
+        "color.link.danger.hovered": "S:a63a7b8911861857dca57b47794eb68f8108ed67,",
+        "color.link.danger.pressed": "S:67c4330120cf5498ac3086f3940b9751ec77ee5a,",
+        "color.link.danger.visited": "S:a637f1bea374fa7586d1d20d78db0586f020997a,",
+        "color.link.danger.disabled": "S:a65475feaf013b8835697b92a3951662b835a68f,",
+        "color.link.inverse.default": "S:0fc595f357e9a09a3c7b196bbb14399874e2c011,",
+        "color.link.inverse.hovered": "S:3594edf67260dbba63d1e5ec9c8e96304b9e525b,",
+        "color.link.inverse.pressed": "S:ceac13ae41609c575a38cd87c6730ae950280699,",
+        "color.link.inverse.visited": "S:3a4f32b0b7b99bcd8faafbe843eb2805d7478bdd,",
+        "color.link.inverse.disabled": "S:a0d661502a870309d20736c1eab2977913789fcd,",
+        "color.focus.neutral.default": "S:8d1ffed6d4088e58195764ba343abf1eeb98b9c6,",
+        "color.focus.brand.default": "S:b1b1c9d293240c229bbcea5edfc84b9fa54c2f0a,",
+        "color.focus.info.default": "S:95ec703b79b823a37788a7b9dd6e785bbc253a57,",
+        "color.focus.success.default": "S:ba6b602b0baeeab94bde3367fca30af677f64131,",
+        "color.focus.warning.default": "S:206cf14316e6d88ffea1a128fdca5d3abcd2b5ea,",
+        "color.focus.danger.default": "S:e93dbb4c1f9eb13e240c13da2850b0f83b89a63c,",
+        "color.focus.inverse.default": "S:2fde8f90cdc7c46a9f4c977d9fc1a3d8271fb2d5,",
+        "color.overlay.neutral.default": "S:1e1f2909490e708d6be51e414d42b113602b7852,",
+        "color.overlay.brand.default": "S:da7b4dcaf3cae25ff4815a4db897173e18e93600,",
+        "color.overlay.info.default": "S:03f0e3bf77a24b5c1d08c2225afc8500bc62d54c,",
+        "color.overlay.success.default": "S:eaf02f78dac759a0f783f8c40e3671f55793aa94,",
+        "color.overlay.warning.default": "S:481ed4ecbe7de27ead1e576350ff996cf2e56198,",
+        "color.overlay.danger.default": "S:c620633037562dc0e3962a9201976ebdc1a59592,",
+        "color.overlay.inverse.default": "S:54917ef4d05485f1465be4a26e29d3c19d05c106,",
+        "color.selection.neutral.default": "S:dbc10a9bb37c57b793ea69ca8860b47efd07463f,",
+        "color.selection.neutral.hovered": "S:5dc1e38e686f862c36fe9d7cc1c9b7b6e6dc310d,",
+        "color.selection.brand.default": "S:cda79edf01ce2eebb1034c7eb0cd9c163873466c,",
+        "color.selection.brand.hovered": "S:23714d23f23d187ec5f51bb27a3cc7aedcf34cda,",
+        "color.selection.info.default": "S:01f05c766fb3bb206cd300eea337dcd5e4a8ab52,",
+        "color.selection.info.hovered": "S:51efaf4741b2196b2c969f41e24224822aacb0cc,",
+        "color.selection.success.default": "S:f76d36ad6bc3ab9122f31e730d7787b571b7d1c8,",
+        "color.selection.success.hovered": "S:166adc6bb62c8e4ffb918840532402a8dd1126a7,",
+        "color.selection.warning.default": "S:3fe44b8bcad1f8732afde7ce9c5697b9830d659a,",
+        "color.selection.warning.hovered": "S:be8e028154eeb571b124bebc71f49f5c72f1d09c,",
+        "color.selection.danger.default": "S:e9c98df933a203ba0b8a87653dfe20780dfb1977,",
+        "color.selection.danger.hovered": "S:31646fcfac06353d49a57e9c81b6930fc037f843,",
+        "color.selection.inverse.default": "S:bd8f0028ba17875aaf92c6be6f23f13ce5498bf8,",
+        "color.selection.inverse.hovered": "S:ea885ca8c9b90bcf207d9eecc3ec93040a5024de,"
+      },
+      "$figmaVariableReferences": {
+        "color.bg.neutral.default": "1d9493e92bd8411d8b6b84bf9a116a91e680d14a",
+        "color.bg.neutral.hovered": "01825c2d0d7ba4fe2b2582cf0699fae0e44c9229",
+        "color.bg.neutral.pressed": "1590cd7f585c27a50896534351bbccda3e5eec7b",
+        "color.bg.neutral.selected": "011835fccb0c18f450c9c94c862e2b6fd654b0c6",
+        "color.bg.neutral.disabled": "27047e977ad279c9f00a67cd48113c798a8d7f2d",
+        "color.bg.brand.default": "e29ab9a688b5c9ea32243b68b04b325f08e2a965",
+        "color.bg.brand.hovered": "8744cb2c5e6419c314a9853275b88f37c90e9456",
+        "color.bg.brand.pressed": "f4f5c45c74740b73c82dcb94113042c782b9223a",
+        "color.bg.brand.selected": "ab25df1e49c8592287314e664b21587c83b9875b",
+        "color.bg.brand.disabled": "afd76fc8a8748c7540ef2c9aa2afa0f3a262d67e",
+        "color.bg.info.default": "6a4d4a42d6e4db4d6068e387a95b1243d646099d",
+        "color.bg.info.hovered": "cb5702ab3a62ea90f83b7be905ff1177b9493e51",
+        "color.bg.info.pressed": "18c18fe2b5562dd63ab04a3dc067aedd922954ba",
+        "color.bg.info.selected": "483e791c95298bf03ab8d7b67b3375492b13e0df",
+        "color.bg.info.disabled": "563a29c48584a18ae7e2eb1afa2cfaeda69f5dd9",
+        "color.bg.success.default": "f6b66747ca5d9721d957937b8294b8af80f6b26d",
+        "color.bg.success.hovered": "dfef70aa3f0d53b2e430a7160f03fa00028a881c",
+        "color.bg.success.pressed": "c247087a76defa5db77605c1b60a64e2e2930eda",
+        "color.bg.success.selected": "67e83fd67d65bddd94d189839cb96131296bfd23",
+        "color.bg.success.disabled": "97372c03ab31498ec49d4bae3710f651bf5eea3d",
+        "color.bg.warning.default": "161273dfd3c09fe9309d9b39492ec77327bb42ee",
+        "color.bg.warning.hovered": "cb4fd937629b3a0b424f2e6e083f55741dc46b5a",
+        "color.bg.warning.pressed": "0521f189d6940768da205f5efadce4da5ad67a86",
+        "color.bg.warning.selected": "79d6358e0360d07dd9f5dd395a30429a723d1094",
+        "color.bg.warning.disabled": "17e7e21f90527d2c529eb113a7ece09e1bee79bd",
+        "color.bg.danger.default": "419e83ead6365bf9cfef5ae0956bc3022a111fe2",
+        "color.bg.danger.hovered": "35c4fd64a5705de935f24ab87d14ad1cbb90c92d",
+        "color.bg.danger.pressed": "4d6528d9396087e7b83b742add4ca154f635512e",
+        "color.bg.danger.selected": "5b5dfe78b7810187067e0ef60dca90d1d2aad258",
+        "color.bg.danger.disabled": "a5dff1c6ab7f50f5684bfa056ba55f5fbe4cddf9",
+        "color.bg.inverse.default": "55453fe189fd1bda703620e7aac58ef4557ba1e3",
+        "color.bg.inverse.hovered": "df16eb4efb36700c90afcad7269b417187504cc8",
+        "color.bg.inverse.pressed": "51b19d760071d18ce915f539c703f1b0cee74291",
+        "color.bg.inverse.selected": "ea52150d2c45668041b191ef82110d002bad8073",
+        "color.bg.inverse.disabled": "eddf8f98b73e5169d0fd0d3f93c8708adf5a56bd",
+        "color.text.neutral.default": "54a2ad4ba67c590791aac7f04e739909ecfbc89c",
+        "color.text.neutral.hovered": "ddd1d0bc5dd30ad9a1a999b108dcc202f21f6bad",
+        "color.text.neutral.selected": "0320f119e909a8a6c67c66397abe1b612015a004",
+        "color.text.neutral.disabled": "1a950a3cd05b4c9a485b09a3ec11e2e73a4e2425",
+        "color.text.brand.default": "92de57a84db2b27cddc779c0f00a2f9b25f6d4a1",
+        "color.text.brand.hovered": "5914c95ff753e08a34043ca31fb211e952a6fb54",
+        "color.text.brand.selected": "a0f58d53fbcca7255abb26a8fb1f865a2847e77c",
+        "color.text.brand.disabled": "841a4a9f2bb7d25154398fa47d6f7351186bdad7",
+        "color.text.info.default": "844370969bfff74a4ae9b8e52407c9fbabdf23cf",
+        "color.text.info.hovered": "9be50dc296e8467bd1ecc017dafc3484b9c5a306",
+        "color.text.info.selected": "e8f80c9460a7091744df67a784e42f7d82d4766d",
+        "color.text.info.disabled": "ea6dd2f31f392490ed4e34e75d246b74c23de26a",
+        "color.text.success.default": "0d655faa44c7cb0e1293455ab3e30cfef3e11ab1",
+        "color.text.success.hovered": "fae0ed021456bacdbe0d6529b2b4fe58f7fdd635",
+        "color.text.success.selected": "cb7fcfe7a1bebe4c356ddf3740f182a0b92578f2",
+        "color.text.success.disabled": "d7b15390cce7ffff287ed73a8d8bff638178a89e",
+        "color.text.warning.default": "bd4efe9af8ba56aba95ed6e43ca03174f24f00c7",
+        "color.text.warning.hovered": "a628d4d69f8975633da7247c7f692a67d41dc062",
+        "color.text.warning.selected": "62a271edb66266097c27b4f1e04aaebd0629997d",
+        "color.text.warning.disabled": "95ec74201d9f66ed2c56c2726cf64e789e03f41d",
+        "color.text.danger.default": "e0e4be3cba719076d2b30807e938a17f5b5b4684",
+        "color.text.danger.hovered": "88bc5cc9ae7436310f2efa25ebdfe9376d2abe51",
+        "color.text.danger.selected": "e482012bfab46cd2fbcd6bd30dde06eed8747c64",
+        "color.text.danger.disabled": "250fd382c9ed1ee725e16ff649f0ee60160daeb2",
+        "color.text.inverse.default": "a236959f700f7e04ef7c86f33b83ceded337ac0e",
+        "color.text.inverse.hovered": "df5e4a25604f1b3b0996401d95910bb2860a6199",
+        "color.text.inverse.selected": "c3ab66b43af874cef3474fcf2e183ba5f4dfab79",
+        "color.text.inverse.disabled": "ae907b38fe5832121610db43c0ba1025dc767ea9",
+        "color.icon.neutral.default": "101e77437a04e59a8b43b9208f5a1dd23d2fa6f3",
+        "color.icon.neutral.hovered": "7376f5c7a2f9749caf53ae3a2c08aabde8b7cb57",
+        "color.icon.neutral.selected": "7dae4c0d24736b6609f80d1d5e86d19c2c669e65",
+        "color.icon.neutral.disabled": "795eee6da5695d85b39908ae3420129ace60f528",
+        "color.icon.brand.default": "d118f4475d3207e70522fdb7104603153fea80a0",
+        "color.icon.brand.hovered": "b2f345958deecc4f394e7254b8b19735f6078848",
+        "color.icon.brand.selected": "8e0d6b1ec107bb8db4131070bf7e43b30bac913e",
+        "color.icon.brand.disabled": "263d793423a5de43a73482a67dd88766471fc1b0",
+        "color.icon.info.default": "30cfef4897583dc5273f2ed76aec519bfb59741c",
+        "color.icon.info.hovered": "6b45b3eccfe27ec38d10074c7f07444aa6576da9",
+        "color.icon.info.selected": "bbd5c554806bed9a8039a9b2aaf75fd5fee90f51",
+        "color.icon.info.disabled": "0fd9b6b9ca3ecb0db2b5134eed89c37b203216d6",
+        "color.icon.success.default": "92d11955bb52387bfc8f7bf6697d4c2454648fd3",
+        "color.icon.success.hovered": "ce81ffa07913d8af41f1b5f3c9c0d156dfae626b",
+        "color.icon.success.selected": "5586854273f5077c7a549d543c3424787fedf1c9",
+        "color.icon.success.disabled": "3cd05ca62550463e3eb96e1bab4f20a6044d5fd1",
+        "color.icon.warning.default": "05ec80e21e541501c95b3a646e801d341e8b3152",
+        "color.icon.warning.hovered": "2d76eb109c8b46a12670e8ee026c18051c70061d",
+        "color.icon.warning.selected": "b50f7d26aed90d573ff14e433d1726ff7453ced7",
+        "color.icon.warning.disabled": "9a6993ad5bbbd045852e2459d43826adce8a684c",
+        "color.icon.danger.default": "1a3f35c8a19e9ef34330ad7863e5fa397976d82a",
+        "color.icon.danger.hovered": "b745c76ed7e10db77680e45a9aba6b2acd4cd09d",
+        "color.icon.danger.selected": "183d4c6ce9693719af3e20374965f21ea3213756",
+        "color.icon.danger.disabled": "227649da50984992e6c5638e91509cc87f1c1e52",
+        "color.icon.inverse.default": "dea85ac06b052c8701c054635bec3496ed064256",
+        "color.icon.inverse.hovered": "a0c42ed330b6c9543fa0e1ec8064a6955178b7aa",
+        "color.icon.inverse.selected": "018add37b9af5858fe039c27fa3eb54092386032",
+        "color.icon.inverse.disabled": "bf0e9a511282cb96b862631666d509fa60b58f43",
+        "color.border.neutral.default": "24423f35f7f5b4f979c25d95e87ddba9d97a2b22",
+        "color.border.neutral.hovered": "254d0c530e2418a14c998c65a1bf00987ec3dee2",
+        "color.border.neutral.pressed": "eb6d78dac83bbf2c3fa7d347b65613940e88c4c1",
+        "color.border.neutral.selected": "02e271dfff635a2c22c10ff7afc01cab3536e057",
+        "color.border.neutral.disabled": "47656182d66eeeea3b168222b4eb2c58370c35a4",
+        "color.border.brand.default": "09614c096f20a80a5f3d4ed898698ce32770564a",
+        "color.border.brand.hovered": "41dec0605ee2eb2e54e0e6441ed4e23c06fc34fe",
+        "color.border.brand.pressed": "fb9a6eb8fa87d581e01a8d0b7c60f4115e6715de",
+        "color.border.brand.selected": "d57b0c57b00ffcb1394860dac593c448a25b19f3",
+        "color.border.brand.disabled": "eaee52766f637467f9a1f0bb2cd3fb6f09065922",
+        "color.border.info.default": "ce621738c0b09e0f98c29db800d964bd60282b3b",
+        "color.border.info.hovered": "b76a4f69448b2955ed74ef75571bdaebf1314286",
+        "color.border.info.pressed": "d59659ed2bb46163674f5a486021ee7772bc4fd8",
+        "color.border.info.selected": "25dc87bf7efa5fbcc1fe576e9b590ee914349f42",
+        "color.border.info.disabled": "1159ed19a97cf64053e545eb877d61f0c31b35f0",
+        "color.border.success.default": "5f6b288b2e14392ba81057f6786d66dd8e18dbc1",
+        "color.border.success.hovered": "a87238b5e87f2f74bb187f05b50ef7635a99a347",
+        "color.border.success.pressed": "9ddbfacbc59728742f1d6949eea08125aabfd814",
+        "color.border.success.selected": "39072dc9f3afcdb79842d83e87e2b717f0c65709",
+        "color.border.success.disabled": "f2100a34963aa2dcb68818a0e97820a15ed58c38",
+        "color.border.warning.default": "1f94dfd5f132ddc7ba86edfa848e7ecb151cd6e1",
+        "color.border.warning.hovered": "9fc61294ed1d94909be3e91248822d6bd029c644",
+        "color.border.warning.pressed": "8152468f008fd16d627bda88b8f841365b9410eb",
+        "color.border.warning.selected": "e938e89be85dd1c4518b58b3212a45a406d0eb9f",
+        "color.border.warning.disabled": "0871614d0cc448980e4ee79fc95446ab19225620",
+        "color.border.danger.default": "b4fd25384ad192e340904a9cd139b1db32278a16",
+        "color.border.danger.hovered": "02e5e763aeceb899ea65456902a6944f4e6eceda",
+        "color.border.danger.pressed": "2765ba0ac9cff69fb43a4ac2a0785ae99559013a",
+        "color.border.danger.selected": "526e79c42d4971e9490b6553c193af6005e5de31",
+        "color.border.danger.disabled": "63bcb2d88ed05a9c2877aa4206edba654bbba02f",
+        "color.border.inverse.default": "ca97a85e2f1039a01dfabeee45197cbe83317467",
+        "color.border.inverse.hovered": "ffafe388fa383a8b6bb91a5638e6837515ea69db",
+        "color.border.inverse.pressed": "92424a4432c4151fc359e8cfc9fab872106a2228",
+        "color.border.inverse.selected": "d4fccdddc499aaa58e49aeff4e2c3d44648481ec",
+        "color.border.inverse.disabled": "4111ea6a716edc64fa2eeb69d2d125b1d1b7fdfa",
+        "color.link.neutral.default": "0da38562ad1b3a70dba57f84bdf056e2905dbffa",
+        "color.link.neutral.hovered": "89a579302b0aabd1fda1bc5872962033cb654435",
+        "color.link.neutral.pressed": "277b348b88f0c4a444d0b6cc589c567f14d52506",
+        "color.link.neutral.visited": "ec518f96a605df36049b3ebacd2a5e0a19f45103",
+        "color.link.neutral.disabled": "88c4d0e6157b00b7aa566667e1460b72a0fe0526",
+        "color.link.brand.default": "d9e26c594839310b6c102b9db6e4af70ffa7ed06",
+        "color.link.brand.hovered": "4fa03413c72a47b470ae49a0f17cc77f0a57c694",
+        "color.link.brand.pressed": "bea938dacfe62abb3a21ad1ba688c7d539c21482",
+        "color.link.brand.visited": "c1e7df5a7dd7629ae4a33585bd2561e7088aebae",
+        "color.link.brand.disabled": "52767bf0956346dc85d0a0a8905aa771a13917c0",
+        "color.link.info.default": "071db97340a3116ca136dcc180ece956bf304a8a",
+        "color.link.info.hovered": "65428417cb750e50746c1ad998b8e145c0078295",
+        "color.link.info.pressed": "2d92f543439ed04a1af811548b0783232d5790fa",
+        "color.link.info.visited": "3718d33345883eb9d818cba1c7a85f0f604f6a93",
+        "color.link.info.disabled": "52f19ff5e80d85b07dc62d0e3c9076095694eae1",
+        "color.link.success.default": "c8869bbe2369f615e8c0ab4e85102969b6079a85",
+        "color.link.success.hovered": "a4077dd5288e4ffea4f35827266724fe82663333",
+        "color.link.success.pressed": "fcc5575168deab067da6109540be26404229078c",
+        "color.link.success.visited": "c4a7d537298070aa82dc4ca9179afbde47486461",
+        "color.link.success.disabled": "72f6cf307263975ac24e8508a73e66c00da1357e",
+        "color.link.warning.default": "4f125caf24bdd132659428a3c160bea5e89756d8",
+        "color.link.warning.hovered": "ddc9b7f27e1b685d517797a0913d2ce4925cfd32",
+        "color.link.warning.pressed": "24534583ed804f7ec938807938508d0aa456ede1",
+        "color.link.warning.visited": "2be603a9962d80cc0e5467c5f8146c95cd5004dc",
+        "color.link.warning.disabled": "4e8d107cefd649a3b5111bbd325c9e3fcfa68ccb",
+        "color.link.danger.default": "ea4bc6923ba9e50d73dfd08b49382aee8cb7f877",
+        "color.link.danger.hovered": "6ae13f3b2e06149e5fbc51dd5dbc45a32e41a29a",
+        "color.link.danger.pressed": "5b6c76c30ac6f7b2ba83ab3c388462ce7efc8251",
+        "color.link.danger.visited": "cb1663ad0a64538fffb05c4c59ac5157e61b1115",
+        "color.link.danger.disabled": "57ac4a7bdb015f89a1482109b7fc97a26c5edff9",
+        "color.link.inverse.default": "7561d2c26bd42ab4ac96fca4627456014dd97a00",
+        "color.link.inverse.hovered": "5e4cf8aad5821711870a9fa8ffccecb197448b5e",
+        "color.link.inverse.pressed": "b4c99aee1341d8abba55796ac5d8f4717b5d21e7",
+        "color.link.inverse.visited": "4f38c107df00cb8c98c58439d9e3c24de3ce9de7",
+        "color.link.inverse.disabled": "7b4939a0efc12f7ed10260d0cc47234f507b0ef0",
+        "color.focus.neutral.default": "64daf2839c61e6be1331afbb02989daaa049d76f",
+        "color.focus.brand.default": "4e2075e7dc7ab4cbb162b0db5c2581c8b60ec961",
+        "color.focus.info.default": "4dfee8cd55df0e774e0fa50293bd69c6e42b818e",
+        "color.focus.success.default": "868fcc900788d11a06216b2b681b37905b52246b",
+        "color.focus.warning.default": "531cdfd62841d13557fde5be1aae0605d78adb49",
+        "color.focus.danger.default": "aeed911bcb2860118c19d5577c2bdb8be47a758b",
+        "color.focus.inverse.default": "e2ba4ce239e4e4b244c02922b940f56f3ca1f346",
+        "color.overlay.neutral.default": "ff048ef6eebc03c360138919a51f8c889a43a0a5",
+        "color.overlay.brand.default": "9105e26f996dc58073017d2c53303e00845cb7b5",
+        "color.overlay.info.default": "5918045b31d74c3e6eaa9a9115ee84a77f3c256d",
+        "color.overlay.success.default": "56da17387e8605ed3dcce1e61db76960935984f8",
+        "color.overlay.warning.default": "55f64bdf7ec2030a4a8d4dda0857a75f6e34ac7e",
+        "color.overlay.danger.default": "99338a725f83c7478991b8c3644ee8293cfea3eb",
+        "color.overlay.inverse.default": "4c8c8c66aeada3532c5eb5aecb4c53706cde4696",
+        "color.selection.neutral.default": "b5ed3409942dc932ace53f6676f24528e894075e",
+        "color.selection.neutral.hovered": "fcc3b172a44c7a321960ab46a87aee05ab4fc3ad",
+        "color.selection.brand.default": "909ce6f61ed46d2026366a6e92ab1dd56759a7ae",
+        "color.selection.brand.hovered": "75e4abbbea210920f8fe846d7932eab3c959531d",
+        "color.selection.info.default": "e9eef6ce1bc88d4155972018bb4a3b1885c2082a",
+        "color.selection.info.hovered": "e38df61ad415c7fd9c9579b708af9d2ff0df732e",
+        "color.selection.success.default": "fdd9ad868b7bd2552c32c71b5b9116ef3ea7a85a",
+        "color.selection.success.hovered": "b63568dda497c3fc6a5be3fa02cae86c8c7597db",
+        "color.selection.warning.default": "f9836444e11364eafe83e5fb5c400ea6ea397b49",
+        "color.selection.warning.hovered": "517d25ccea127a709f7d0528d0d84ac8d2a8226b",
+        "color.selection.danger.default": "6b2c0c1adc7997122d7de16e4f5dfbf6aaf2f7ff",
+        "color.selection.danger.hovered": "59e1bbee6b273125f5ace176b30955a2ba29b281",
+        "color.selection.inverse.default": "7a45a8ccca10958c1d66759f586a2a0fab3ae19f",
+        "color.selection.inverse.hovered": "a7bad3d02e503267b4f30d2859c1d55ed42200f3"
+      },
+      "$figmaModeId": "58:1",
+      "$figmaCollectionId": "VariableCollectionId:58:3",
+      "group": "Semantic - Colour"
+    },
+    {
+      "id": "whitelabel -dark",
+      "name": "Dark",
+      "selectedTokenSets": {
+        "Whitelabel /Dark": "enabled"
+      },
+      "$figmaStyleReferences": {
+        "color.bg.neutral.default": "S:54961f0a942306180904d002edeaa57a90049e1d,",
+        "color.bg.neutral.hovered": "S:7e1da53af8aec1288ffaae3c0651dbbea8d9355e,",
+        "color.bg.neutral.pressed": "S:a6d0c7b6abab8be20f82625dc6f7b39d7612eb09,",
+        "color.bg.neutral.selected": "S:1a61df78dbb58e01dde628062b8636642e37d23b,",
+        "color.bg.neutral.disabled": "S:012182f418c2995da1781dce6cd0084f4995104c,",
+        "color.bg.brand.default": "S:b21e4720f2cc018be7a359e552445357296573c6,",
+        "color.bg.brand.hovered": "S:4d759cca59b39b4ad176755fdcf88116da144fde,",
+        "color.bg.brand.pressed": "S:2ac05744e0781558458e511280c5836a966a42d7,",
+        "color.bg.brand.selected": "S:e5b3ef471ab85253df3c08a8f248523b5eb9c582,",
+        "color.bg.brand.disabled": "S:b52066eb8a97b1a0705597927285e13fffe56002,",
+        "color.bg.info.default": "S:754d39a8f28eaa76a2d8791974553f9ffa4b9505,",
+        "color.bg.info.hovered": "S:36690274af976615df0a5ccd1ea5da6444e800e5,",
+        "color.bg.info.pressed": "S:52d078f27dea0478e669407dc07d22312c92c996,",
+        "color.bg.info.selected": "S:2f3c06cdcd6668a922e34e2ae5a4163d3c68b411,",
+        "color.bg.info.disabled": "S:5d916756610061eb30f43564f7f5dbadcbbac888,",
+        "color.bg.success.default": "S:e90b3bb66ea12fee57e49832c65c0cdc355647c3,",
+        "color.bg.success.hovered": "S:0db9c22390eaa9a940357bfd4a7c26569b018ae3,",
+        "color.bg.success.pressed": "S:81028b9bb5b7d3cf01678f00182dea870d4a8bdd,",
+        "color.bg.success.selected": "S:c39439ad5f5f116452cfd5b2afb24f6acd4f5078,",
+        "color.bg.success.disabled": "S:f7988aa995113b9dd4cdef0c4f1c7f9d9b839bed,",
+        "color.bg.warning.default": "S:238a1257409b5461800c598401cef32e34765aa6,",
+        "color.bg.warning.hovered": "S:645ad25895ef7b65274f50391719d521fc45a839,",
+        "color.bg.warning.pressed": "S:83b4691549537e6886deeccb2c54be9293316528,",
+        "color.bg.warning.selected": "S:52fd635fd90b6d6a35920ae702f398ae94715327,",
+        "color.bg.warning.disabled": "S:0f14be29137d72bfd70cc462de67f2dff5d4f906,",
+        "color.bg.danger.default": "S:90c1969a884965fa470cdcfc3692a00f3ead5198,",
+        "color.bg.danger.hovered": "S:360470f3a36f9288c7451126c365c04408cb3bb9,",
+        "color.bg.danger.pressed": "S:668eba86d8337d784f17cabdeea52caaa2717c89,",
+        "color.bg.danger.selected": "S:db703b2ffffc0d62bcd895cedca7c6b7ec5b44e2,",
+        "color.bg.danger.disabled": "S:123c2fa69af4ad2e7d3785352093a3a8700f2f47,",
+        "color.bg.inverse.default": "S:a573eee096369fdef5ca97ef5c50d3678096bf5c,",
+        "color.bg.inverse.hovered": "S:fd961370f47a0f3219f7ea8ab17c5e01199c7916,",
+        "color.bg.inverse.pressed": "S:4e2a60c69837241d639574f4b14530f0a08a2f0b,",
+        "color.bg.inverse.selected": "S:c583cc76e9f1c2c1ce0b865a72fbee14920a1f8a,",
+        "color.bg.inverse.disabled": "S:2c02b3846bc297d53d7fa30c035e589ee06cc14f,",
+        "color.text.neutral.default": "S:b119540f6c6b65a2965d5682567a4a5cae09060f,",
+        "color.text.neutral.hovered": "S:351f69764980da6bbf3cce1a19f7f94c73945ba6,",
+        "color.text.neutral.selected": "S:3efc9c8cd671feee79693026d3f9a61745c557f0,",
+        "color.text.neutral.disabled": "S:6f41a25fc7cc42625adb0ab03f2ceb2936a44be8,",
+        "color.text.brand.default": "S:78c90c414a5b0f2e903b8326838e1249ee2793d4,",
+        "color.text.brand.hovered": "S:cbe2bdfdb554bf0360cf191b6cf270bc8fc575e2,",
+        "color.text.brand.selected": "S:5162b1af8ff640866288a5ba05d96911f415e529,",
+        "color.text.brand.disabled": "S:e2350ecfeb72cd261b31d8c5063bea184a1d70e9,",
+        "color.text.info.default": "S:d554e4a377bbf7df43abfa9d436150723bebc463,",
+        "color.text.info.hovered": "S:47f56c29ef980f3fe0bfc9d91337de9d6e147f46,",
+        "color.text.info.selected": "S:e80e63b2568ee2c79b96bd6f55093e9023e67762,",
+        "color.text.info.disabled": "S:91db66a084b795336c79850294ef2165684ded6c,",
+        "color.text.success.default": "S:84c4e48392036cd9357d4d65484632e8109a146e,",
+        "color.text.success.hovered": "S:64fe8877b1d12aa0b94e9098811beb6057b859b9,",
+        "color.text.success.selected": "S:a81b428415833541ffb56b912e3fd10a1b50d646,",
+        "color.text.success.disabled": "S:32228433954ce50b28acdb9f665f145122ac3960,",
+        "color.text.warning.default": "S:0ee99fbcfb695bfa861d7e12c80a559de1d982b0,",
+        "color.text.warning.hovered": "S:b83d4f4848e6661f4f52452536c936811c082579,",
+        "color.text.warning.selected": "S:628692254d528a8e8a17d2fb593f3da9127e2acf,",
+        "color.text.warning.disabled": "S:bc8b39a40676a9a2fbb6e57f349efa249c46bda4,",
+        "color.text.danger.default": "S:86fa7a11ea76d27d337f8311ab68d78bba8bf719,",
+        "color.text.danger.hovered": "S:1e0cece15ae43cad5ba74aa0205a4a47866fac71,",
+        "color.text.danger.selected": "S:20071a2245c35bd504110a374f7d13ea793030bc,",
+        "color.text.danger.disabled": "S:14199ad841e19a4e0328daedffe12be17f41243b,",
+        "color.text.inverse.default": "S:ef2d52bd7221484cb0321be852432f735f7ce2f0,",
+        "color.text.inverse.hovered": "S:255ee9e13c6146a89d0e745209843b39a4ece10b,",
+        "color.text.inverse.selected": "S:33d01e1e3857bb7efdf08eb2219a2ad61c04eef9,",
+        "color.text.inverse.disabled": "S:09aa940487adecc7df554ac8ddf8b995e7194af9,",
+        "color.icon.neutral.default": "S:0a7457e1f0f4a99e99a95e841d1428fd27af4929,",
+        "color.icon.neutral.hovered": "S:d2afcc16500ed1493aa52786f4c9707669f7d84b,",
+        "color.icon.neutral.selected": "S:f2d3ea7dda1cf850f6ac19712747512caa47764e,",
+        "color.icon.neutral.disabled": "S:25cf90cb9db71fa1c47a27f38692a79c6f7e7608,",
+        "color.icon.brand.default": "S:f1a69a90f443ed12680fac2dad628f9d8065976b,",
+        "color.icon.brand.hovered": "S:2b085d4679f0c5929b943aca2782efe7b50d85a0,",
+        "color.icon.brand.selected": "S:be77f4af5990b578c93b699ffee3964f347621f4,",
+        "color.icon.brand.disabled": "S:af05dfc41d07768e7ccd3fafb5ed0f9405aa554a,",
+        "color.icon.info.default": "S:24f86ad475ac6f009f0a0563e9d7adcdc0f46084,",
+        "color.icon.info.hovered": "S:a1332967a239029a310ff514e75bd7bb92bb3786,",
+        "color.icon.info.selected": "S:94da4074006dcdfb3ef7a997cc8cc2ed11f3e3d4,",
+        "color.icon.info.disabled": "S:2f0ff984e1db90c307fe8b44d332691bc7ee1a8d,",
+        "color.icon.success.default": "S:cecf13cb447113f99cf7b60b0230991f5f5040a0,",
+        "color.icon.success.hovered": "S:4e0ed4a34232defb86bb80838fba57411549f2f8,",
+        "color.icon.success.selected": "S:c307015241ba5d4c53fb8ba1f519877a94535756,",
+        "color.icon.success.disabled": "S:12adcf807886678be73d9db3cccf2c65fb589828,",
+        "color.icon.warning.default": "S:dc6013220bf8a93db05d52ba952c2bdd73ec8050,",
+        "color.icon.warning.hovered": "S:e52b2f450c3d9b9496654857f771c9ddfeb36bd0,",
+        "color.icon.warning.selected": "S:9fa235b7fd0e98b316ed609ae4df26a4a0cf4616,",
+        "color.icon.warning.disabled": "S:6c456b07321d8772139ae561165f3372e969d3ea,",
+        "color.icon.danger.default": "S:68dc7244e29914c7912e7be95bcc4d0326fa4497,",
+        "color.icon.danger.hovered": "S:4d0ea78b2d911a0b7288ba8061f1d233bb86e0e7,",
+        "color.icon.danger.selected": "S:73a1592b5a8b5a45cfde4be2bcebaa3adb8b8903,",
+        "color.icon.danger.disabled": "S:a417e453f99f343ca0da004533a44efbcce7f213,",
+        "color.icon.inverse.default": "S:2a29f2d2f527e039e10913abedaab91859ebe9a8,",
+        "color.icon.inverse.hovered": "S:e9f3d41ee0cb3c8f092f3440c2c2082ba68d6d46,",
+        "color.icon.inverse.selected": "S:a4239e4b71e3a9c81686a246331ebcc5f86b121e,",
+        "color.icon.inverse.disabled": "S:603c0707ff0529cc1556100c263a35e16c48eb50,",
+        "color.border.neutral.default": "S:34b4543c40ae4960b8b77126892b1674a314d6e7,",
+        "color.border.neutral.hovered": "S:96cfa84bfe93f16909f46e92bdfe8bf5d140c3de,",
+        "color.border.neutral.pressed": "S:803d14ddf90fcebd159bbfae97ce4669db83da3d,",
+        "color.border.neutral.selected": "S:9554efd1b46a97378f054c035937784f59e332dc,",
+        "color.border.neutral.disabled": "S:60aed5e82c988189e616fabc396e81fe0be68ebe,",
+        "color.border.brand.default": "S:da6a25a1d0747fe750b3b0491ad9fca17349ba78,",
+        "color.border.brand.hovered": "S:628c40780809255dde92c4108ae3e55d55396bdd,",
+        "color.border.brand.pressed": "S:5beaa50c6bb99340936c33a9b32e880e2a2905a6,",
+        "color.border.brand.selected": "S:c89ca159f3634641580a1e47a4650a3c2ff3176f,",
+        "color.border.brand.disabled": "S:e0314ef2c189027245254672ee621cac105c7e5d,",
+        "color.border.info.default": "S:a09e16ca7f73b51d596055807fea05d67b3143f1,",
+        "color.border.info.hovered": "S:499656228d9dcb5b1441240ce0912ce24eea72ec,",
+        "color.border.info.pressed": "S:24e0b6391282fa570043a5a3f620306553f90cbd,",
+        "color.border.info.selected": "S:45080b61af14f247fd3b5b174940136087f3e380,",
+        "color.border.info.disabled": "S:d1f8862a3a59c13033918c736b2d2c8d17fefca3,",
+        "color.border.success.default": "S:cf65293584a7a600f6058828b9f094a542c4302e,",
+        "color.border.success.hovered": "S:eba61a74fa4521ddaad506277883b5870ac30e3f,",
+        "color.border.success.pressed": "S:ed253a78cf75f3a48397de55c915607b689361ae,",
+        "color.border.success.selected": "S:20bbb86ce07b6d8514468612d2a20e2f59282973,",
+        "color.border.success.disabled": "S:f0c2281de3b444d528e1f66919453d72484f80f0,",
+        "color.border.warning.default": "S:4eaa02ef238733fdf6d0112d6748ce20356bf6b8,",
+        "color.border.warning.hovered": "S:0f712431b8ab5d098533ae1dfe688547d017bc49,",
+        "color.border.warning.pressed": "S:2420ed2475a5afef8446d32afa16aaf1f0ac2aaa,",
+        "color.border.warning.selected": "S:7e7f37a626151b44ddb4bb10d52e319546dad3c6,",
+        "color.border.warning.disabled": "S:9478b21d5476179761354d381e18f8735f843cb6,",
+        "color.border.danger.default": "S:a961068f77ce26d80e2cfc95dd11ca40c64982c9,",
+        "color.border.danger.hovered": "S:fbc26fa18febe6b5947a974b491dd7096ee65960,",
+        "color.border.danger.pressed": "S:b00af2dbb2cc27bf5de67bc74651033602391770,",
+        "color.border.danger.selected": "S:d0ea98ade5657e7a3783566191575d4f58cccf1a,",
+        "color.border.danger.disabled": "S:694472ffae083142a73b8abf01125a3508aa5478,",
+        "color.border.inverse.default": "S:8de3da7cbff509dd3ed7a1cb73536091dd7db496,",
+        "color.border.inverse.hovered": "S:08cc0e795e255257ebe28f0ed60f721dbda0889e,",
+        "color.border.inverse.pressed": "S:40c7637c0bbd8ab9b5970ff93c0cfc8175e38e4d,",
+        "color.border.inverse.selected": "S:b86ce287484f0e633cbe02c12384ac7e8b5a98c2,",
+        "color.border.inverse.disabled": "S:27b6fe52e59e4442f2057c5be89bc4787a1d82c3,",
+        "color.link.neutral.default": "S:25b1e3fee0e033aabc17fbb28d5c1423b26e1141,",
+        "color.link.neutral.hovered": "S:cde4f56efcd9fd1ffae13c95996818c669c3e907,",
+        "color.link.neutral.pressed": "S:10c8be74c86a4530f909ed8b5164b2b4cf89af8e,",
+        "color.link.neutral.visited": "S:46f67e0765bfbf62007b975b2021a78dbff32815,",
+        "color.link.neutral.disabled": "S:9d78e4c2abacf8793cfe91a42aa38be204f26d36,",
+        "color.link.brand.default": "S:0b3504b0954fa8798421fc0481cd06cac0632ffd,",
+        "color.link.brand.hovered": "S:96178d86ce3c4913cec810680bf6179925ea24c3,",
+        "color.link.brand.pressed": "S:29918494ed837f8dbb8bd575db6335f9a0db5592,",
+        "color.link.brand.visited": "S:322017682798ddabd7dbac6b5e7c417b727d5791,",
+        "color.link.brand.disabled": "S:69d496203d9bab097df77348ad6909bcc31b2e30,",
+        "color.link.info.default": "S:283ee3fa874e6dff1a7bb8ef6e6145e245e7fb9c,",
+        "color.link.info.hovered": "S:d64352083a14b3f92d6c6a0a31d33b3cf6234af4,",
+        "color.link.info.pressed": "S:8523800ee658fb505f12932dddceb8725efb24fa,",
+        "color.link.info.visited": "S:afe574c6ca32c5333fab8c4a715ed18a21751b01,",
+        "color.link.info.disabled": "S:9086f78ca649020cde38e7ae3169ddab827d3edf,",
+        "color.link.success.default": "S:39dd8fca49aa375bae8df3d05afbf04f99288e2d,",
+        "color.link.success.hovered": "S:267ca10cb9398956e3d430bfcc05191df9b8583b,",
+        "color.link.success.pressed": "S:854e21d9a0344e044c2f8d5473be79fbedd6a87e,",
+        "color.link.success.visited": "S:ec9e6f383950bb2500e4a99e2cbd45f041ad55eb,",
+        "color.link.success.disabled": "S:4ddd6131bac0252d62e2b980716f99045ab8910e,",
+        "color.link.warning.default": "S:1c0065edddf4a795d798f21355efc11b828c4dc9,",
+        "color.link.warning.hovered": "S:806b9a8e5a056a434a6ab375493e2c03b62d1552,",
+        "color.link.warning.pressed": "S:65667e98a144858579ad1220b70d5680453f4f40,",
+        "color.link.warning.visited": "S:f3d1e17d112611ed968f2c4fe669122d1d505398,",
+        "color.link.warning.disabled": "S:43d41810b84789db9187b0e267fb3c5c7f8bc0f7,",
+        "color.link.danger.default": "S:966d96822f00c4d2cf48468dce03c7451a5b0b90,",
+        "color.link.danger.hovered": "S:a63a7b8911861857dca57b47794eb68f8108ed67,",
+        "color.link.danger.pressed": "S:67c4330120cf5498ac3086f3940b9751ec77ee5a,",
+        "color.link.danger.visited": "S:a637f1bea374fa7586d1d20d78db0586f020997a,",
+        "color.link.danger.disabled": "S:a65475feaf013b8835697b92a3951662b835a68f,",
+        "color.link.inverse.default": "S:0fc595f357e9a09a3c7b196bbb14399874e2c011,",
+        "color.link.inverse.hovered": "S:3594edf67260dbba63d1e5ec9c8e96304b9e525b,",
+        "color.link.inverse.pressed": "S:ceac13ae41609c575a38cd87c6730ae950280699,",
+        "color.link.inverse.visited": "S:3a4f32b0b7b99bcd8faafbe843eb2805d7478bdd,",
+        "color.link.inverse.disabled": "S:a0d661502a870309d20736c1eab2977913789fcd,",
+        "color.focus.neutral.default": "S:8d1ffed6d4088e58195764ba343abf1eeb98b9c6,",
+        "color.focus.brand.default": "S:b1b1c9d293240c229bbcea5edfc84b9fa54c2f0a,",
+        "color.focus.info.default": "S:95ec703b79b823a37788a7b9dd6e785bbc253a57,",
+        "color.focus.success.default": "S:ba6b602b0baeeab94bde3367fca30af677f64131,",
+        "color.focus.warning.default": "S:206cf14316e6d88ffea1a128fdca5d3abcd2b5ea,",
+        "color.focus.danger.default": "S:e93dbb4c1f9eb13e240c13da2850b0f83b89a63c,",
+        "color.focus.inverse.default": "S:2fde8f90cdc7c46a9f4c977d9fc1a3d8271fb2d5,",
+        "color.overlay.neutral.default": "S:1e1f2909490e708d6be51e414d42b113602b7852,",
+        "color.overlay.brand.default": "S:da7b4dcaf3cae25ff4815a4db897173e18e93600,",
+        "color.overlay.info.default": "S:03f0e3bf77a24b5c1d08c2225afc8500bc62d54c,",
+        "color.overlay.success.default": "S:eaf02f78dac759a0f783f8c40e3671f55793aa94,",
+        "color.overlay.warning.default": "S:481ed4ecbe7de27ead1e576350ff996cf2e56198,",
+        "color.overlay.danger.default": "S:c620633037562dc0e3962a9201976ebdc1a59592,",
+        "color.overlay.inverse.default": "S:54917ef4d05485f1465be4a26e29d3c19d05c106,",
+        "color.selection.neutral.default": "S:dbc10a9bb37c57b793ea69ca8860b47efd07463f,",
+        "color.selection.neutral.hovered": "S:5dc1e38e686f862c36fe9d7cc1c9b7b6e6dc310d,",
+        "color.selection.brand.default": "S:cda79edf01ce2eebb1034c7eb0cd9c163873466c,",
+        "color.selection.brand.hovered": "S:23714d23f23d187ec5f51bb27a3cc7aedcf34cda,",
+        "color.selection.info.default": "S:01f05c766fb3bb206cd300eea337dcd5e4a8ab52,",
+        "color.selection.info.hovered": "S:51efaf4741b2196b2c969f41e24224822aacb0cc,",
+        "color.selection.success.default": "S:f76d36ad6bc3ab9122f31e730d7787b571b7d1c8,",
+        "color.selection.success.hovered": "S:166adc6bb62c8e4ffb918840532402a8dd1126a7,",
+        "color.selection.warning.default": "S:3fe44b8bcad1f8732afde7ce9c5697b9830d659a,",
+        "color.selection.warning.hovered": "S:be8e028154eeb571b124bebc71f49f5c72f1d09c,",
+        "color.selection.danger.default": "S:e9c98df933a203ba0b8a87653dfe20780dfb1977,",
+        "color.selection.danger.hovered": "S:31646fcfac06353d49a57e9c81b6930fc037f843,",
+        "color.selection.inverse.default": "S:bd8f0028ba17875aaf92c6be6f23f13ce5498bf8,",
+        "color.selection.inverse.hovered": "S:ea885ca8c9b90bcf207d9eecc3ec93040a5024de,"
+      },
+      "$figmaVariableReferences": {
+        "color.bg.neutral.default": "1d9493e92bd8411d8b6b84bf9a116a91e680d14a",
+        "color.bg.neutral.hovered": "01825c2d0d7ba4fe2b2582cf0699fae0e44c9229",
+        "color.bg.neutral.pressed": "1590cd7f585c27a50896534351bbccda3e5eec7b",
+        "color.bg.neutral.selected": "011835fccb0c18f450c9c94c862e2b6fd654b0c6",
+        "color.bg.neutral.disabled": "27047e977ad279c9f00a67cd48113c798a8d7f2d",
+        "color.bg.brand.default": "e29ab9a688b5c9ea32243b68b04b325f08e2a965",
+        "color.bg.brand.hovered": "8744cb2c5e6419c314a9853275b88f37c90e9456",
+        "color.bg.brand.pressed": "f4f5c45c74740b73c82dcb94113042c782b9223a",
+        "color.bg.brand.selected": "ab25df1e49c8592287314e664b21587c83b9875b",
+        "color.bg.brand.disabled": "afd76fc8a8748c7540ef2c9aa2afa0f3a262d67e",
+        "color.bg.info.default": "6a4d4a42d6e4db4d6068e387a95b1243d646099d",
+        "color.bg.info.hovered": "cb5702ab3a62ea90f83b7be905ff1177b9493e51",
+        "color.bg.info.pressed": "18c18fe2b5562dd63ab04a3dc067aedd922954ba",
+        "color.bg.info.selected": "483e791c95298bf03ab8d7b67b3375492b13e0df",
+        "color.bg.info.disabled": "563a29c48584a18ae7e2eb1afa2cfaeda69f5dd9",
+        "color.bg.success.default": "f6b66747ca5d9721d957937b8294b8af80f6b26d",
+        "color.bg.success.hovered": "dfef70aa3f0d53b2e430a7160f03fa00028a881c",
+        "color.bg.success.pressed": "c247087a76defa5db77605c1b60a64e2e2930eda",
+        "color.bg.success.selected": "67e83fd67d65bddd94d189839cb96131296bfd23",
+        "color.bg.success.disabled": "97372c03ab31498ec49d4bae3710f651bf5eea3d",
+        "color.bg.warning.default": "161273dfd3c09fe9309d9b39492ec77327bb42ee",
+        "color.bg.warning.hovered": "cb4fd937629b3a0b424f2e6e083f55741dc46b5a",
+        "color.bg.warning.pressed": "0521f189d6940768da205f5efadce4da5ad67a86",
+        "color.bg.warning.selected": "79d6358e0360d07dd9f5dd395a30429a723d1094",
+        "color.bg.warning.disabled": "17e7e21f90527d2c529eb113a7ece09e1bee79bd",
+        "color.bg.danger.default": "419e83ead6365bf9cfef5ae0956bc3022a111fe2",
+        "color.bg.danger.hovered": "35c4fd64a5705de935f24ab87d14ad1cbb90c92d",
+        "color.bg.danger.pressed": "4d6528d9396087e7b83b742add4ca154f635512e",
+        "color.bg.danger.selected": "5b5dfe78b7810187067e0ef60dca90d1d2aad258",
+        "color.bg.danger.disabled": "a5dff1c6ab7f50f5684bfa056ba55f5fbe4cddf9",
+        "color.bg.inverse.default": "55453fe189fd1bda703620e7aac58ef4557ba1e3",
+        "color.bg.inverse.hovered": "df16eb4efb36700c90afcad7269b417187504cc8",
+        "color.bg.inverse.pressed": "51b19d760071d18ce915f539c703f1b0cee74291",
+        "color.bg.inverse.selected": "ea52150d2c45668041b191ef82110d002bad8073",
+        "color.bg.inverse.disabled": "eddf8f98b73e5169d0fd0d3f93c8708adf5a56bd",
+        "color.text.neutral.default": "54a2ad4ba67c590791aac7f04e739909ecfbc89c",
+        "color.text.neutral.hovered": "ddd1d0bc5dd30ad9a1a999b108dcc202f21f6bad",
+        "color.text.neutral.selected": "0320f119e909a8a6c67c66397abe1b612015a004",
+        "color.text.neutral.disabled": "1a950a3cd05b4c9a485b09a3ec11e2e73a4e2425",
+        "color.text.brand.default": "92de57a84db2b27cddc779c0f00a2f9b25f6d4a1",
+        "color.text.brand.hovered": "5914c95ff753e08a34043ca31fb211e952a6fb54",
+        "color.text.brand.selected": "a0f58d53fbcca7255abb26a8fb1f865a2847e77c",
+        "color.text.brand.disabled": "841a4a9f2bb7d25154398fa47d6f7351186bdad7",
+        "color.text.info.default": "844370969bfff74a4ae9b8e52407c9fbabdf23cf",
+        "color.text.info.hovered": "9be50dc296e8467bd1ecc017dafc3484b9c5a306",
+        "color.text.info.selected": "e8f80c9460a7091744df67a784e42f7d82d4766d",
+        "color.text.info.disabled": "ea6dd2f31f392490ed4e34e75d246b74c23de26a",
+        "color.text.success.default": "0d655faa44c7cb0e1293455ab3e30cfef3e11ab1",
+        "color.text.success.hovered": "fae0ed021456bacdbe0d6529b2b4fe58f7fdd635",
+        "color.text.success.selected": "cb7fcfe7a1bebe4c356ddf3740f182a0b92578f2",
+        "color.text.success.disabled": "d7b15390cce7ffff287ed73a8d8bff638178a89e",
+        "color.text.warning.default": "bd4efe9af8ba56aba95ed6e43ca03174f24f00c7",
+        "color.text.warning.hovered": "a628d4d69f8975633da7247c7f692a67d41dc062",
+        "color.text.warning.selected": "62a271edb66266097c27b4f1e04aaebd0629997d",
+        "color.text.warning.disabled": "95ec74201d9f66ed2c56c2726cf64e789e03f41d",
+        "color.text.danger.default": "e0e4be3cba719076d2b30807e938a17f5b5b4684",
+        "color.text.danger.hovered": "88bc5cc9ae7436310f2efa25ebdfe9376d2abe51",
+        "color.text.danger.selected": "e482012bfab46cd2fbcd6bd30dde06eed8747c64",
+        "color.text.danger.disabled": "250fd382c9ed1ee725e16ff649f0ee60160daeb2",
+        "color.text.inverse.default": "a236959f700f7e04ef7c86f33b83ceded337ac0e",
+        "color.text.inverse.hovered": "df5e4a25604f1b3b0996401d95910bb2860a6199",
+        "color.text.inverse.selected": "c3ab66b43af874cef3474fcf2e183ba5f4dfab79",
+        "color.text.inverse.disabled": "ae907b38fe5832121610db43c0ba1025dc767ea9",
+        "color.icon.neutral.default": "101e77437a04e59a8b43b9208f5a1dd23d2fa6f3",
+        "color.icon.neutral.hovered": "7376f5c7a2f9749caf53ae3a2c08aabde8b7cb57",
+        "color.icon.neutral.selected": "7dae4c0d24736b6609f80d1d5e86d19c2c669e65",
+        "color.icon.neutral.disabled": "795eee6da5695d85b39908ae3420129ace60f528",
+        "color.icon.brand.default": "d118f4475d3207e70522fdb7104603153fea80a0",
+        "color.icon.brand.hovered": "b2f345958deecc4f394e7254b8b19735f6078848",
+        "color.icon.brand.selected": "8e0d6b1ec107bb8db4131070bf7e43b30bac913e",
+        "color.icon.brand.disabled": "263d793423a5de43a73482a67dd88766471fc1b0",
+        "color.icon.info.default": "30cfef4897583dc5273f2ed76aec519bfb59741c",
+        "color.icon.info.hovered": "6b45b3eccfe27ec38d10074c7f07444aa6576da9",
+        "color.icon.info.selected": "bbd5c554806bed9a8039a9b2aaf75fd5fee90f51",
+        "color.icon.info.disabled": "0fd9b6b9ca3ecb0db2b5134eed89c37b203216d6",
+        "color.icon.success.default": "92d11955bb52387bfc8f7bf6697d4c2454648fd3",
+        "color.icon.success.hovered": "ce81ffa07913d8af41f1b5f3c9c0d156dfae626b",
+        "color.icon.success.selected": "5586854273f5077c7a549d543c3424787fedf1c9",
+        "color.icon.success.disabled": "3cd05ca62550463e3eb96e1bab4f20a6044d5fd1",
+        "color.icon.warning.default": "05ec80e21e541501c95b3a646e801d341e8b3152",
+        "color.icon.warning.hovered": "2d76eb109c8b46a12670e8ee026c18051c70061d",
+        "color.icon.warning.selected": "b50f7d26aed90d573ff14e433d1726ff7453ced7",
+        "color.icon.warning.disabled": "9a6993ad5bbbd045852e2459d43826adce8a684c",
+        "color.icon.danger.default": "1a3f35c8a19e9ef34330ad7863e5fa397976d82a",
+        "color.icon.danger.hovered": "b745c76ed7e10db77680e45a9aba6b2acd4cd09d",
+        "color.icon.danger.selected": "183d4c6ce9693719af3e20374965f21ea3213756",
+        "color.icon.danger.disabled": "227649da50984992e6c5638e91509cc87f1c1e52",
+        "color.icon.inverse.default": "dea85ac06b052c8701c054635bec3496ed064256",
+        "color.icon.inverse.hovered": "a0c42ed330b6c9543fa0e1ec8064a6955178b7aa",
+        "color.icon.inverse.selected": "018add37b9af5858fe039c27fa3eb54092386032",
+        "color.icon.inverse.disabled": "bf0e9a511282cb96b862631666d509fa60b58f43",
+        "color.border.neutral.default": "24423f35f7f5b4f979c25d95e87ddba9d97a2b22",
+        "color.border.neutral.hovered": "254d0c530e2418a14c998c65a1bf00987ec3dee2",
+        "color.border.neutral.pressed": "eb6d78dac83bbf2c3fa7d347b65613940e88c4c1",
+        "color.border.neutral.selected": "02e271dfff635a2c22c10ff7afc01cab3536e057",
+        "color.border.neutral.disabled": "47656182d66eeeea3b168222b4eb2c58370c35a4",
+        "color.border.brand.default": "09614c096f20a80a5f3d4ed898698ce32770564a",
+        "color.border.brand.hovered": "41dec0605ee2eb2e54e0e6441ed4e23c06fc34fe",
+        "color.border.brand.pressed": "fb9a6eb8fa87d581e01a8d0b7c60f4115e6715de",
+        "color.border.brand.selected": "d57b0c57b00ffcb1394860dac593c448a25b19f3",
+        "color.border.brand.disabled": "eaee52766f637467f9a1f0bb2cd3fb6f09065922",
+        "color.border.info.default": "ce621738c0b09e0f98c29db800d964bd60282b3b",
+        "color.border.info.hovered": "b76a4f69448b2955ed74ef75571bdaebf1314286",
+        "color.border.info.pressed": "d59659ed2bb46163674f5a486021ee7772bc4fd8",
+        "color.border.info.selected": "25dc87bf7efa5fbcc1fe576e9b590ee914349f42",
+        "color.border.info.disabled": "1159ed19a97cf64053e545eb877d61f0c31b35f0",
+        "color.border.success.default": "5f6b288b2e14392ba81057f6786d66dd8e18dbc1",
+        "color.border.success.hovered": "a87238b5e87f2f74bb187f05b50ef7635a99a347",
+        "color.border.success.pressed": "9ddbfacbc59728742f1d6949eea08125aabfd814",
+        "color.border.success.selected": "39072dc9f3afcdb79842d83e87e2b717f0c65709",
+        "color.border.success.disabled": "f2100a34963aa2dcb68818a0e97820a15ed58c38",
+        "color.border.warning.default": "1f94dfd5f132ddc7ba86edfa848e7ecb151cd6e1",
+        "color.border.warning.hovered": "9fc61294ed1d94909be3e91248822d6bd029c644",
+        "color.border.warning.pressed": "8152468f008fd16d627bda88b8f841365b9410eb",
+        "color.border.warning.selected": "e938e89be85dd1c4518b58b3212a45a406d0eb9f",
+        "color.border.warning.disabled": "0871614d0cc448980e4ee79fc95446ab19225620",
+        "color.border.danger.default": "b4fd25384ad192e340904a9cd139b1db32278a16",
+        "color.border.danger.hovered": "02e5e763aeceb899ea65456902a6944f4e6eceda",
+        "color.border.danger.pressed": "2765ba0ac9cff69fb43a4ac2a0785ae99559013a",
+        "color.border.danger.selected": "526e79c42d4971e9490b6553c193af6005e5de31",
+        "color.border.danger.disabled": "63bcb2d88ed05a9c2877aa4206edba654bbba02f",
+        "color.border.inverse.default": "ca97a85e2f1039a01dfabeee45197cbe83317467",
+        "color.border.inverse.hovered": "ffafe388fa383a8b6bb91a5638e6837515ea69db",
+        "color.border.inverse.pressed": "92424a4432c4151fc359e8cfc9fab872106a2228",
+        "color.border.inverse.selected": "d4fccdddc499aaa58e49aeff4e2c3d44648481ec",
+        "color.border.inverse.disabled": "4111ea6a716edc64fa2eeb69d2d125b1d1b7fdfa",
+        "color.link.neutral.default": "0da38562ad1b3a70dba57f84bdf056e2905dbffa",
+        "color.link.neutral.hovered": "89a579302b0aabd1fda1bc5872962033cb654435",
+        "color.link.neutral.pressed": "277b348b88f0c4a444d0b6cc589c567f14d52506",
+        "color.link.neutral.visited": "ec518f96a605df36049b3ebacd2a5e0a19f45103",
+        "color.link.neutral.disabled": "88c4d0e6157b00b7aa566667e1460b72a0fe0526",
+        "color.link.brand.default": "d9e26c594839310b6c102b9db6e4af70ffa7ed06",
+        "color.link.brand.hovered": "4fa03413c72a47b470ae49a0f17cc77f0a57c694",
+        "color.link.brand.pressed": "bea938dacfe62abb3a21ad1ba688c7d539c21482",
+        "color.link.brand.visited": "c1e7df5a7dd7629ae4a33585bd2561e7088aebae",
+        "color.link.brand.disabled": "52767bf0956346dc85d0a0a8905aa771a13917c0",
+        "color.link.info.default": "071db97340a3116ca136dcc180ece956bf304a8a",
+        "color.link.info.hovered": "65428417cb750e50746c1ad998b8e145c0078295",
+        "color.link.info.pressed": "2d92f543439ed04a1af811548b0783232d5790fa",
+        "color.link.info.visited": "3718d33345883eb9d818cba1c7a85f0f604f6a93",
+        "color.link.info.disabled": "52f19ff5e80d85b07dc62d0e3c9076095694eae1",
+        "color.link.success.default": "c8869bbe2369f615e8c0ab4e85102969b6079a85",
+        "color.link.success.hovered": "a4077dd5288e4ffea4f35827266724fe82663333",
+        "color.link.success.pressed": "fcc5575168deab067da6109540be26404229078c",
+        "color.link.success.visited": "c4a7d537298070aa82dc4ca9179afbde47486461",
+        "color.link.success.disabled": "72f6cf307263975ac24e8508a73e66c00da1357e",
+        "color.link.warning.default": "4f125caf24bdd132659428a3c160bea5e89756d8",
+        "color.link.warning.hovered": "ddc9b7f27e1b685d517797a0913d2ce4925cfd32",
+        "color.link.warning.pressed": "24534583ed804f7ec938807938508d0aa456ede1",
+        "color.link.warning.visited": "2be603a9962d80cc0e5467c5f8146c95cd5004dc",
+        "color.link.warning.disabled": "4e8d107cefd649a3b5111bbd325c9e3fcfa68ccb",
+        "color.link.danger.default": "ea4bc6923ba9e50d73dfd08b49382aee8cb7f877",
+        "color.link.danger.hovered": "6ae13f3b2e06149e5fbc51dd5dbc45a32e41a29a",
+        "color.link.danger.pressed": "5b6c76c30ac6f7b2ba83ab3c388462ce7efc8251",
+        "color.link.danger.visited": "cb1663ad0a64538fffb05c4c59ac5157e61b1115",
+        "color.link.danger.disabled": "57ac4a7bdb015f89a1482109b7fc97a26c5edff9",
+        "color.link.inverse.default": "7561d2c26bd42ab4ac96fca4627456014dd97a00",
+        "color.link.inverse.hovered": "5e4cf8aad5821711870a9fa8ffccecb197448b5e",
+        "color.link.inverse.pressed": "b4c99aee1341d8abba55796ac5d8f4717b5d21e7",
+        "color.link.inverse.visited": "4f38c107df00cb8c98c58439d9e3c24de3ce9de7",
+        "color.link.inverse.disabled": "7b4939a0efc12f7ed10260d0cc47234f507b0ef0",
+        "color.focus.neutral.default": "64daf2839c61e6be1331afbb02989daaa049d76f",
+        "color.focus.brand.default": "4e2075e7dc7ab4cbb162b0db5c2581c8b60ec961",
+        "color.focus.info.default": "4dfee8cd55df0e774e0fa50293bd69c6e42b818e",
+        "color.focus.success.default": "868fcc900788d11a06216b2b681b37905b52246b",
+        "color.focus.warning.default": "531cdfd62841d13557fde5be1aae0605d78adb49",
+        "color.focus.danger.default": "aeed911bcb2860118c19d5577c2bdb8be47a758b",
+        "color.focus.inverse.default": "e2ba4ce239e4e4b244c02922b940f56f3ca1f346",
+        "color.overlay.neutral.default": "ff048ef6eebc03c360138919a51f8c889a43a0a5",
+        "color.overlay.brand.default": "9105e26f996dc58073017d2c53303e00845cb7b5",
+        "color.overlay.info.default": "5918045b31d74c3e6eaa9a9115ee84a77f3c256d",
+        "color.overlay.success.default": "56da17387e8605ed3dcce1e61db76960935984f8",
+        "color.overlay.warning.default": "55f64bdf7ec2030a4a8d4dda0857a75f6e34ac7e",
+        "color.overlay.danger.default": "99338a725f83c7478991b8c3644ee8293cfea3eb",
+        "color.overlay.inverse.default": "4c8c8c66aeada3532c5eb5aecb4c53706cde4696",
+        "color.selection.neutral.default": "b5ed3409942dc932ace53f6676f24528e894075e",
+        "color.selection.neutral.hovered": "fcc3b172a44c7a321960ab46a87aee05ab4fc3ad",
+        "color.selection.brand.default": "909ce6f61ed46d2026366a6e92ab1dd56759a7ae",
+        "color.selection.brand.hovered": "75e4abbbea210920f8fe846d7932eab3c959531d",
+        "color.selection.info.default": "e9eef6ce1bc88d4155972018bb4a3b1885c2082a",
+        "color.selection.info.hovered": "e38df61ad415c7fd9c9579b708af9d2ff0df732e",
+        "color.selection.success.default": "fdd9ad868b7bd2552c32c71b5b9116ef3ea7a85a",
+        "color.selection.success.hovered": "b63568dda497c3fc6a5be3fa02cae86c8c7597db",
+        "color.selection.warning.default": "f9836444e11364eafe83e5fb5c400ea6ea397b49",
+        "color.selection.warning.hovered": "517d25ccea127a709f7d0528d0d84ac8d2a8226b",
+        "color.selection.danger.default": "6b2c0c1adc7997122d7de16e4f5dfbf6aaf2f7ff",
+        "color.selection.danger.hovered": "59e1bbee6b273125f5ace176b30955a2ba29b281",
+        "color.selection.inverse.default": "7a45a8ccca10958c1d66759f586a2a0fab3ae19f",
+        "color.selection.inverse.hovered": "a7bad3d02e503267b4f30d2859c1d55ed42200f3"
+      },
+      "$figmaModeId": "58:2",
+      "$figmaCollectionId": "VariableCollectionId:58:3",
+      "group": "Semantic - Colour"
+    },
+    {
+      "id": "92f003c984f10e332bba4b1b59752da310c20e95",
+      "name": "Dimensions",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "Primitive/Primitive": "source",
+        "Dimensions": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:58:4",
+      "$figmaModeId": "58:3",
+      "$figmaVariableReferences": {
+        "border radius.border-radius-none": "6529452c87d0d0033babd705065cfec4dd99de22",
+        "border radius.border-radius-sm": "cb5fd89f5df904ea1d43781ac6ac472126460660",
+        "border radius.border-radius-md": "f2fab3c563eea1eaef14e898b2c35a47d3ea73f1",
+        "border radius.border-radius-lg": "66931c6356535ef7a81392216892170b24bee299",
+        "border radius.border-radius-xl": "2ec97aa1ea87ccd45826c5414676c8104fca4d76",
+        "border radius.border-radius-2xl": "7fef9f9b59b6c23ce4470b03c2dd09314a8c01f8",
+        "border radius.border-radius-full": "5e30d2b9b9da5a9c83d1791a05afb649f6e01d70",
+        "spacing.spacing-none": "916356ae20966b7128801394fe9059e0b891710b",
+        "spacing.spacing-xxs": "01092555d9bc5085191c44cee89e781c26cad97c",
+        "spacing.spacing-xs": "d72ed09bacb8851f0277d7876318c8eb26a655c5",
+        "spacing.spacing-sm": "3d6ec00ec8a14a6779826bea970b5fb96b8bf911",
+        "spacing.spacing-md": "d95f5166e8d89ef6505d940dcc8165ca63f4936b",
+        "spacing.spacing-lg": "c48cbfacd48fc812bca81e41d830afd79d98785d",
+        "spacing.spacing-xl": "6ef8a6dfecc27c3ad81107f4d9a8523e9c2c3d6f",
+        "spacing.spacing-2xl": "392e3c3335fb22f7be8d055ea5e1a4e210a5f164",
+        "spacing.spacing-3xl": "4273c6af8ef09ddf7519d3c7d82514c2bfadea57",
+        "spacing.spacing-4xl": "ff37acf9b433d517cd434f6f06eec043f3f41969",
+        "spacing.spacing-5xl": "5143c7e5c242c4c8bffbf5919561abbcb732d18f",
+        "spacing.spacing-6xl": "846762613d6adac162baf0bd066ffdf7ef807c02",
+        "spacing.spacing-7xl": "16b3b414353f385e0b304f2715b0db62f7f11643",
+        "border width.border-none": "e5496ee21730f6159b871b8b4edba94416bf6161",
+        "border width.border-thin": "9f33e633c278d98012c0742fa00d6c57288dd12c",
+        "border width.border-default": "f9f0e1ef1c18876b8530b7097b2c71f6f24e1944",
+        "border width.border-thick": "d6cd04179e9817b7ec916e0190418a2ad7d6b1ce",
+        "size.size-xs": "18156a1174a7bf0a21e7e094874908d6c104b50c",
+        "size.size-sm": "c31fa2c507ba93d47a62bbb587c7b4a6eda36789",
+        "size.size-md": "9e9bc9bfdf66b1e3467686498b55c7689d8c72a4",
+        "size.size-lg": "4f0d43e6092f517e04c4f44fb726bb1236e85e65",
+        "size.size-xl": "fef7df918c99fff5aed6854517a5a31d18f9ac33",
+        "size.size-2xl": "ce38877fb1c4f02cd91c49d5ebc2ed884f70d3de",
+        "size.size-3xl": "d9c25c112bae65ea3ca0557afccbb2c909d2438f",
+        "size.size-4xl": "06c9ae9c4ed594aacf6ab8391927d78acbf3b91d",
+        "size.size-5xl": "84d2d46fd03d7bd94b0ddf9f0a43fe32adb53d80"
+      },
+      "group": "Semantic - Dimensions"
+    },
+    {
+      "id": "d61e9e1072166ccebdd3e0b5720ab239a8f2acbc",
+      "name": "Desktop",
+      "$figmaStyleReferences": {
+        "text.heading.h1.light": "S:bc7828468da81793882599fed0be75a76c69df8d,",
+        "text.heading.h1.regular": "S:1073702bee0a4ca81969ae89f9f0ed9a4224096f,",
+        "text.heading.h1.bold": "S:8845dacd228900397878e3a36c4617696b3bf061,",
+        "text.heading.h2.light": "S:2f7c25a5e1380cec0b50539dec0ecf850b894de8,",
+        "text.heading.h2.regular": "S:9e2c187cb13b63a71a473c665d6633ff0f277cb9,",
+        "text.heading.h2.bold": "S:5b538dd56d32e102c83174f5661c641f884f6e26,",
+        "text.heading.h3.light": "S:704ab789c21a87e9d95e5bd4547135759664d4e2,",
+        "text.heading.h3.regular": "S:80a5f102d49862c1cbe0a567c9b6705035dc8c7a,",
+        "text.heading.h3.bold": "S:906b5ba7ac40695beaba12133b08a1145751875b,",
+        "text.heading.h4.light": "S:0e0627ab46df85130c460412770377d74a7742ec,",
+        "text.heading.h4.regular": "S:190a20cf293d25222ccc2706efca3e430badf599,",
+        "text.heading.h4.bold": "S:af0a0f533962f697ea44160a660fefb0d86dffe8,",
+        "text.heading.h5.light": "S:8e2f86da8dc34019aa7e741ddad0517120bbc5a0,",
+        "text.heading.h5.regular": "S:173f4fe3eb3cfb476f95a578584879eac464f353,",
+        "text.heading.h5.bold": "S:e0862c41670208a2f4b9fc36c88e90458e7df511,",
+        "text.body.lg.light": "S:a4e2708b53bd72f75e42f489ae0859548ea9f39b,",
+        "text.body.lg.regular": "S:795ad52dd6a7699d262f83b0948d4199e19ee5e9,",
+        "text.body.lg.bold": "S:2ec33e336ef673c464ea774c517ab0f09f56ab19,",
+        "text.body.md.light": "S:2285df21bcd6a23869a3fe2b47b9b5b34365afe6,",
+        "text.body.md.regular": "S:6baa1b45e46f99ebe12dcdbf7463a947dab139e2,",
+        "text.body.md.bold": "S:c425a7d1b04936bc06aa951052e16716f3802160,",
+        "text.body.sm.light": "S:92f913bfb52ab17a283068c160ed4df0c600851e,",
+        "text.body.sm.regular": "S:287de59d375ded877195a566f1d35308d4f3b215,",
+        "text.body.sm.bold": "S:d60cfdc0ceb84f0971a5ff89cf4623c0ffff7209,"
+      },
+      "selectedTokenSets": {
+        "Desktop": "enabled",
+        "Mobile": "enabled",
+        "Primitive/Primitive": "source"
+      },
+      "group": "Semantic - Type"
+    }
+  ],
+  "$metadata": {
+    "tokenSetOrder": [
+      "Primitive/Primitive",
+      "Whitelabel /Light",
+      "Whitelabel /Dark",
+      "Dimensions",
+      "Desktop",
+      "Mobile"
+    ]
+  }
+}
