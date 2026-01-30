@@ -2139,7 +2139,7 @@
       }
     }
   },
-  "Dimensions": {
+  "Semantic - Dimenstions/Dimensions": {
     "border radius": {
       "border-radius-none": {
         "value": "{dimension.dimension-0}",
@@ -3699,7 +3699,7 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "Primitive/Primitive": "source",
-        "Dimensions": "enabled"
+        "Semantic - Dimenstions/Dimensions": "enabled"
       },
       "$figmaCollectionId": "VariableCollectionId:58:4",
       "$figmaModeId": "58:3",
@@ -3791,7 +3791,7 @@
       "Primitive/Primitive",
       "Semantic - Colour/Light",
       "Semantic - Colour/Dark",
-      "Dimensions",
+      "Semantic - Dimenstions/Dimensions",
       "Semantic - Type / Desktop",
       "Semantic - Type / Mobile"
     ]
