@@ -2908,10 +2908,10 @@
       "$figmaCollectionId": "VariableCollectionId:58:2"
     },
     {
-      "id": "whitelabel -light",
+      "id": "Semantic - Colour -light",
       "name": "Light",
       "selectedTokenSets": {
-        "Whitelabel /Light": "enabled"
+        "Semantic - Colour /Light": "enabled"
       },
       "$figmaStyleReferences": {
         "color.bg.neutral.default": "S:54961f0a942306180904d002edeaa57a90049e1d,",
@@ -3300,10 +3300,10 @@
       "group": "Semantic - Colour"
     },
     {
-      "id": "whitelabel -dark",
+      "id": "Semantic - Colour -dark",
       "name": "Dark",
       "selectedTokenSets": {
-        "Whitelabel /Dark": "enabled"
+        "Semantic - Colour /Dark": "enabled"
       },
       "$figmaStyleReferences": {
         "color.bg.neutral.default": "S:54961f0a942306180904d002edeaa57a90049e1d,",
