@@ -363,7 +363,7 @@
       }
     }
   },
-  "Whitelabel /Light": {
+  "Semantic - Colour/Light": {
     "color": {
       "bg": {
         "neutral": {
@@ -1251,7 +1251,7 @@
       }
     }
   },
-  "Whitelabel /Dark": {
+  "Semantic - Colour/Dark": {
     "color": {
       "bg": {
         "neutral": {
@@ -2281,7 +2281,7 @@
       }
     }
   },
-  "Desktop": {
+  "Semantic - Type / Desktop": {
     "text": {
       "heading": {
         "h1": {
@@ -2545,7 +2545,7 @@
       }
     }
   },
-  "Mobile": {
+  "Semantic - Type / Mobile": {
     "text": {
       "heading": {
         "h1": {
@@ -2908,10 +2908,10 @@
       "$figmaCollectionId": "VariableCollectionId:58:2"
     },
     {
-      "id": "Semantic - Colour -light",
+      "id": "whitelabel -light",
       "name": "Light",
       "selectedTokenSets": {
-        "Semantic - Colour /Light": "enabled"
+        "Semantic - Colour/Light": "enabled"
       },
       "$figmaStyleReferences": {
         "color.bg.neutral.default": "S:54961f0a942306180904d002edeaa57a90049e1d,",
@@ -3300,10 +3300,10 @@
       "group": "Semantic - Colour"
     },
     {
-      "id": "Semantic - Colour -dark",
+      "id": "whitelabel -dark",
       "name": "Dark",
       "selectedTokenSets": {
-        "Semantic - Colour /Dark": "enabled"
+        "Semantic - Colour/Dark": "enabled"
       },
       "$figmaStyleReferences": {
         "color.bg.neutral.default": "S:54961f0a942306180904d002edeaa57a90049e1d,",
@@ -3768,9 +3768,9 @@
         "text.body.sm.bold": "S:d60cfdc0ceb84f0971a5ff89cf4623c0ffff7209,"
       },
       "selectedTokenSets": {
-        "Desktop": "enabled",
-        "Mobile": "enabled",
-        "Primitive/Primitive": "source"
+        "Primitive/Primitive": "source",
+        "Semantic - Type / Desktop": "enabled",
+        "Semantic - Type / Mobile": "enabled"
       },
       "group": "Semantic - Type"
     }
@@ -3778,11 +3778,11 @@
   "$metadata": {
     "tokenSetOrder": [
       "Primitive/Primitive",
-      "Whitelabel /Light",
-      "Whitelabel /Dark",
+      "Semantic - Colour/Light",
+      "Semantic - Colour/Dark",
       "Dimensions",
-      "Desktop",
-      "Mobile"
+      "Semantic - Type / Desktop",
+      "Semantic - Type / Mobile"
     ]
   }
 }
